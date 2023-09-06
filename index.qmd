@@ -1,8 +1,8 @@
 ---
-title: "Welcome to the SIPBS Internships and Matching pages"
+title: "SIPBS Summer Internships and Internship Matching"
 image: ./assets/images/sipbs_compbio.png
 about:
-  template: jolla
+  template: trestles
   links:
     - icon: twitter
       text: Twitter
@@ -15,7 +15,7 @@ about:
       href: mailto:leighton.pritchard@strath.ac.uk
 ---
 
-Welcome to Internships and Internship Matching pages for the Strathclyde Institute of Pharmacy and Biomedical Sciences!
+Welcome to the SIPBS Summer Internships and Internship Matching pages for the Strathclyde Institute of Pharmacy and Biomedical Sciences!
 
 ## What is this site for?
 

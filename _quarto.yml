@@ -7,6 +7,7 @@ website:
   description: "Course website for SIPBS Internships and Matching in Semester 1 2023"
   favicon: "icon_32.png"
   navbar:
+    logo: ./assets/images/sipbs_compbio.png
     right:
       - text: "Home"
         file: index.qmd
