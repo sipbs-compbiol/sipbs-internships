@@ -1,0 +1,38 @@
+---
+title: "Previous Projects"
+description: |
+ Previously offered projects for SIPBS Internships.
+tbl-colwidths: [20, 40, 40]
+number-sections: true
+about:
+  template: marquee
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/scompbiol
+    - icon: github
+      text: Github
+      href: https://github.com/sipbs-compbiol
+    - icon: envelope
+      text: Email
+      href: mailto:leighton.pritchard@strath.ac.uk
+html:
+  anchor-sections: true
+---
+
+## Summer 2023
+
+The table below lists PIs who actively indicated they would welcome SIPBS internship applicants for project work in Summer 2023.
+
+| PI  | Topics    | Project Title |
+| :-- | :-------- | :------------ |
+| Dr T Bushell [{{< bi envelope >}}](mailto:trevor.bushell@strath.ac.uk)  [{{< bi link >}}](https://www.strath.ac.uk/staff/bushelltrevordr/) | astrocytes, protease-activated receptor-2 (PAR2), inflammation | Cytokine release from cultured human astrocytes                             |
+| Dr K Duncan [{{< bi envelope >}}](mailto:katherine.duncan@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/duncankatherinedr/) | | Taxonomic identification of marine Actinomycetes |
+| Dr A Kurdi [{{< bi envelope >}}](amanj.baker@strath.ac.uk) [{{< bi link >}}](https://pureportal.strath.ac.uk/en/persons/amanj-kurdi) | | Impact of covid on the prescribing trend of antidepressants in the U.K. |
+| Prof M Maclean  [{{< bi envelope >}}](mandy.maclean@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/macleanmandyprofessor/) | Estrogen, Human adipose cells, QRTPCR, Aromatise, CYP1B1, Serotonin, Endothelin, Cell culture | The effect of serotonin and endothelin on estrogen synthesis |
+| Prof G McConnell [{{< bi envelope >}}](g.mcconnell@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/mcconnellgailprof/) |  | Characterising magnetic nanoparticles for biofilm remediation |
+| Dr F Murphy [{{< bi envelope >}}](f.murphy@strath.ac.uk) |  |    hazard assessment of nanomaterials, in vitro alternatives, 3D multicell models of lung | Humanising hazard assessment of nanomaterials |
+| Dr F Murphy [{{< bi envelope >}}](f.murphy@strath.ac.uk)  |  |    hazard assessment of nanomaterials, in vitro alternatives, 3D multicell models of lung | Assessing the impact of protein supplements on suspensions of nanomaterials |
+| Dr K Neves  [{{< bi envelope >}}](karla.neves@strath.ac.uk) [{{< bi link >}}](https://pureportal.strath.ac.uk/en/persons/karla-neves) | anti-cancer drugs, hypertension, vascular biology | Assessing the vascular effects of combinational anti-cancer therapy         |
+| Dr Z Rattray  [{{< bi envelope >}}](zahra.rattray@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/rattrayzahradr/) | Nanotechnology; Analysis; Bioanalysis | Nanotechnology-based formulations |
+| Dr Z Rattray  [{{< bi envelope >}}](zahra.rattray@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/rattrayzahradr/) | Clinical datasets; data analysis; breast cancer | Understudied mutations in breast cancer |
