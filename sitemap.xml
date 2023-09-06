@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sipbs-compbiol.github.io/sipbs-internships/about.html</loc>
-    <lastmod>2023-09-06T17:40:42.028Z</lastmod>
+    <loc>https://sipbs-compbiol.github.io/sipbs-internships/current_projects.html</loc>
+    <lastmod>2023-09-06T18:28:47.387Z</lastmod>
   </url>
   <url>
     <loc>https://sipbs-compbiol.github.io/sipbs-internships/index.html</loc>
-    <lastmod>2023-09-06T17:40:40.418Z</lastmod>
+    <lastmod>2023-09-06T18:28:44.308Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sipbs-compbiol.github.io/sipbs-internships/about.html</loc>
+    <lastmod>2023-09-06T18:28:45.910Z</lastmod>
   </url>
 </urlset>

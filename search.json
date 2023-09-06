@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "current_projects.html",
+    "href": "current_projects.html",
+    "title": "Current Projects",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "The table below lists PIs who have actively indicated they would welcome SIPBS internship applicants for project work in Summer 2024.\n\n\n\n\n\n\nImportant\n\n\n\nAll project titles, and their availabilities, are provisional.\n\n\n\n\n\n\n\n\nImportant\n\n\n\nSome projects may only go ahead if suitable funding is obtained, or other conditions are met.\n\n\n\n\n\n\n\n\n\n\nPI\nTopics\nProject Title\n\n\n\n\nDr T Bushell  \nastrocytes, protease-activated receptor-2 (PAR2), inflammation\nCytokine release from cultured human astrocytes"
+  },
+  {
+    "objectID": "current_projects.html#offered-project-summaries",
+    "href": "current_projects.html#offered-project-summaries",
+    "title": "Current Projects",
+    "section": "",
+    "text": "The table below lists PIs who have actively indicated they would welcome SIPBS internship applicants for project work in Summer 2024.\n\n\n\n\n\n\nImportant\n\n\n\nAll project titles, and their availabilities, are provisional.\n\n\n\n\n\n\n\n\nImportant\n\n\n\nSome projects may only go ahead if suitable funding is obtained, or other conditions are met.\n\n\n\n\n\n\n\n\n\n\nPI\nTopics\nProject Title\n\n\n\n\nDr T Bushell  \nastrocytes, protease-activated receptor-2 (PAR2), inflammation\nCytokine release from cultured human astrocytes"
+  },
+  {
+    "objectID": "current_projects.html#project-descriptions",
+    "href": "current_projects.html#project-descriptions",
+    "title": "Current Projects",
+    "section": "2 Project Descriptions",
+    "text": "2 Project Descriptions\n\n2.1 Dr T Bushell: Cytokine release from cultured human astrocytes\nKeywords: astrocytes, protease-activated receptor-2 (PAR2), inflammation\nWe have shown that PAR2 activation may contribute to depression-like behaviour through cytokine release from activated astrocytes. In this study, we would examine the consequence of PAR2 activation and inhibition on cytokine release from cultured human astrocytes."
   },
   {
     "objectID": "index.html",
@@ -33,5 +47,12 @@
     "title": "SIPBS Summer Internships and Internship Matching",
     "section": "Acknowledgements",
     "text": "Acknowledgements\nThese pages were developed in 2023, and are currently maintained by, Leighton Pritchard.\nThese course materials are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Linked and embedded materials are governed by their own licenses. I assume that all external materials used or embedded here are covered under the educational fair use policy. If this is not the case and any material displayed here violates copyright, please let me know and I will remove it."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
