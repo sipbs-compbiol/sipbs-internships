@@ -1,6 +1,6 @@
 ---
 title: "Welcome to the SIPBS Internships and Matching pages"
-image: http://sipbs-compbiol/sipbs-internships/assets/images/sipbs_compbio.png
+image: http://sipbs-compbiol.github.io/sipbs-internships/assets/images/sipbs_compbio.png
 about:
   template: jolla
   links:
