@@ -1,0 +1,43 @@
+project:
+  type: website
+
+website:
+  title: "SIPBS Internships"
+  site-url: https://sipbs-compbiol.github.io/sipbs-internships
+  description: "Course website for SIPBS Internships and Matching in Semester 1 2023"
+  favicon: "icon_32.png"
+  navbar:
+    right:
+      - text: "Home"
+        file: index.qmd
+      - text: "General Information"
+        menu:
+        - text: "Matching"
+          href: matching.qmd
+        - text: "Current Projects"
+          href: current_projects.qmd
+      - text: "Materials"
+        menu: 
+        - text: "Slides"
+          href: slides.qmd
+        - text: "Previous Projects"
+          href: previous_projects.qmd
+        - text: "Forms"
+          href: forms.qmd
+      - icon: github
+        href: https://github.com/sipbs-compbiol/sipbs-internships
+      - icon: twitter
+        href: https://twitter.com/scompbiol
+      - icon: rss
+        href: index.xml  
+
+format:
+  html:
+    theme: simplex
+    toc: true
+    css: styles.css
+
+editor: visual
+
+execute:
+  freeze: auto

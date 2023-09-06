@@ -1,0 +1,33 @@
+---
+title: "Welcome to the SIPBS Internships and Matching pages"
+image: http://sipbs-compbiol/sipbs-internships/assets/images/sipbs_compbio.png
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/scompbiol
+    - icon: github
+      text: Github
+      href: https://github.com/sipbs-compbiol
+    - icon: envelope
+      text: Email
+      href: mailto:leighton.pritchard@strath.ac.uk
+---
+
+Welcome to Internships and Internship Matching pages for the Strathclyde Institute of Pharmacy and Biomedical Sciences!
+
+## What is this site for?
+
+These pages describe the SIPBS summer internship matching process and provide supporting information about this activity, including a list of potential internship opportunities
+
+
+## Getting started
+
+We suggest that you start by looking over the description of the [Matching](matching.qmd) process, [Current Projects](current_projects.qmd) and [External Funding](external_funding.md) under **General Information**. After that, please take a look at the [Slides](slides.md) and complete the [form](forms.md) if you wish to be considered for the matching process.
+
+## Acknowledgements
+
+These pages were developed in 2023, and are currently maintained by, [Leighton Pritchard](https://www.strath.ac.uk/staff/pritchardleightondr/).
+
+These course materials are licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). Linked and embedded materials are governed by their own licenses. I assume that all external materials used or embedded here are covered under the educational fair use policy. If this is not the case and any material displayed here violates copyright, please let [me](https://www.strath.ac.uk/staff/pritchardleightondr/) know and I will remove it.
