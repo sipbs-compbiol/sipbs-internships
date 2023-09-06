@@ -36,6 +36,7 @@ format:
     theme: simplex
     toc: true
     css: styles.css
+    embed-resources: true
 
 editor: visual
 
