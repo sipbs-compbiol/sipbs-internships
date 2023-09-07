@@ -21,7 +21,6 @@ Welcome to the SIPBS Summer Internships and Internship Matching pages for the St
 
 These pages describe the SIPBS summer internship matching process and provide supporting information about this activity, including a list of potential internship opportunities
 
-
 ## Getting started
 
 We suggest that you start by looking over the description of the [Matching](matching.qmd) process, [Current Projects](current_projects.qmd) and [External Funding](external_funding.md) under **General Information**. After that, please take a look at the [Slides](slides.md) and complete the [form](forms.md) if you wish to be considered for the matching process.

@@ -17,6 +17,8 @@ website:
           href: matching.qmd
         - text: "Current Projects"
           href: current_projects.qmd
+        - text: "External Funding Opporunities"
+          href: external_funding.qmd
       - text: "Materials"
         menu: 
         - text: "Slides"
