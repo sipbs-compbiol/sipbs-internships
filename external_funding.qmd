@@ -22,15 +22,19 @@ html:
 Some opportunities for internship funding are listed below.
 
 ::: callout-important
-This is *not* an exhaustive or complete list.
+Please read the documentation for these funding sources carefully. Many sources have specific requirements for applicants (e.g. supervisor or student may need to be a learned society member; age, qualification, nationality, or other restrictions may apply).
 :::
 
-::: callout-important
-Please read the documentation for these funding sources carefully. Many sources have specific requirements for applicants. Some funders require the supervisor to apply, some require the student to apply, and some ask for a joint application.
+::: callout-note
+Some funders require the supervisor to apply, some require the student to apply, and some ask for a joint application.
 :::
 
 ::: callout-warning
 It is the responsibility of the supervisor and/or student to apply for, and to manage, any funding.
+:::
+
+::: callout-important
+This is **not** an exhaustive or complete list.
 :::
 
 
