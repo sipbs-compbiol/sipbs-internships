@@ -18,24 +18,23 @@ about:
       href: mailto:leighton.pritchard@strath.ac.uk
 html:
   anchor-sections: true
-
 ---
 
 ## Offered Project Summaries
 
 The table below lists PIs who have actively indicated they would welcome SIPBS internship applicants for project work in Summer 2024.
 
-::: {.callout-important}
+::: callout-important
 All project titles, and their availabilities, are provisional.
 :::
 
-::: {.callout-important}
+::: callout-important
 Some projects may only go ahead if suitable funding is obtained, or other conditions are met.
 :::
 
-| PI               |       Topics      | Project Title     |
-| :--------------- | :---------------- | :---------------- |
-| Dr T Bushell [{{< bi envelope >}}](mailto:trevor.bushell@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/bushelltrevordr/)  | astrocytes, protease-activated receptor-2 (PAR2), inflammation | [Cytokine release from cultured human astrocytes](#sec-bushell-1) |
+| PI                                                                                                                                        | Topics                                                         | Project Title                                                     |
+|:----------------------|:------------------------|:------------------------|
+| Dr T Bushell [{{< bi envelope >}}](mailto:trevor.bushell@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/bushelltrevordr/) | astrocytes, protease-activated receptor-2 (PAR2), inflammation | [Cytokine release from cultured human astrocytes](#sec-bushell-1) |
 
 ## Project Descriptions
 
@@ -43,4 +42,4 @@ Some projects may only go ahead if suitable funding is obtained, or other condit
 
 Keywords: astrocytes, protease-activated receptor-2 (PAR2), inflammation
 
-We have shown that PAR2 activation may contribute to depression-like behaviour through cytokine release from activated astrocytes.  In this study, we would examine the consequence of PAR2 activation and inhibition on cytokine release from cultured human astrocytes.
+We have shown that PAR2 activation may contribute to depression-like behaviour through cytokine release from activated astrocytes. In this study, we would examine the consequence of PAR2 activation and inhibition on cytokine release from cultured human astrocytes.
