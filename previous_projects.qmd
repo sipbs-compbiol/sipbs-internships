@@ -26,8 +26,8 @@ The table below lists PIs and the projects that were offered for Summer 2023.
 
 | PI            | Topics                | Project Title                    |
 |:--------------|:----------------------|:---------------------------------|
-| Dr T Bushell [{{< bi envelope >}}](mailto:trevor.bushell@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/bushelltrevordr/)    | astrocytes, protease-activated receptor-2 (PAR2), inflammation  | Cytokine release from cultured human astrocytes                                        |
-| Dr K Duncan [{{< bi envelope >}}](mailto:katherine.duncan@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/duncankatherinedr/) | | Taxonomic identification of marine _Actinomycetes_   |
+| Dr T Bushell [{{< bi envelope >}}](mailto:trevor.bushell@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/bushelltrevordr/) | astrocytes, protease-activated receptor-2 (PAR2), inflammation  | Cytokine release from cultured human astrocytes |
+| Dr K Duncan [{{< bi envelope >}}](mailto:katherine.duncan@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/duncankatherinedr/) | | Taxonomic identification of marine _Actinomycetes_ |
 | Dr A Kurdi [{{< bi envelope >}}](amanj.baker@strath.ac.uk) [{{< bi link >}}](https://pureportal.strath.ac.uk/en/persons/amanj-kurdi) | | Impact of covid on the prescribing trend of antidepressants in the U.K. |
 | Prof M Maclean [{{< bi envelope >}}](mandy.maclean@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/macleanmandyprofessor/) | Estrogen, Human adipose cells, QRTPCR, Aromatise, CYP1B1, Serotonin, Endothelin, Cell culture | The effect of serotonin and endothelin on estrogen synthesis |
 | Prof G McConnell [{{< bi envelope >}}](g.mcconnell@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/mcconnellgailprof/) | | Characterising magnetic nanoparticles for biofilm remediation |
