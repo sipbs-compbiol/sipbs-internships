@@ -26,16 +26,16 @@ The table below lists PIs and the projects that were offered for Summer 2023.
 
 | PI            | Topics                | Project Title                    |
 |:--------------|:----------------------|:---------------------------------|
-| Dr T Bushell [{{< bi envelope >}}](mailto:trevor.bushell@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/bushelltrevordr/)    | astrocytes, protease-activated receptor-2 (PAR2), inflammation                                | Cytokine release from cultured human astrocytes                                        |
-| Dr K Duncan [{{< bi envelope >}}](mailto:katherine.duncan@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/duncankatherinedr/) |                                                                                               | Taxonomic identification of marine Actinomycetes                                       |
-| Dr A Kurdi [{{< bi envelope >}}](amanj.baker@strath.ac.uk) [{{< bi link >}}](https://pureportal.strath.ac.uk/en/persons/amanj-kurdi)         |                                                                                               | Impact of covid on the prescribing trend of antidepressants in the U.K.                |
-| Prof M Maclean [{{< bi envelope >}}](mandy.maclean@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/macleanmandyprofessor/)    | Estrogen, Human adipose cells, QRTPCR, Aromatise, CYP1B1, Serotonin, Endothelin, Cell culture | The effect of serotonin and endothelin on estrogen synthesis                           |
-| Prof G McConnell [{{< bi envelope >}}](g.mcconnell@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/mcconnellgailprof/)        |                                                                                               | Characterising magnetic nanoparticles for biofilm remediation                          |
-| Dr F Murphy [{{< bi envelope >}}](f.murphy@strath.ac.uk)                                                                                     |                                                                                               | hazard assessment of nanomaterials, in vitro alternatives, 3D multicell models of lung |
-| Dr F Murphy [{{< bi envelope >}}](f.murphy@strath.ac.uk)                                                                                     |                                                                                               | hazard assessment of nanomaterials, in vitro alternatives, 3D multicell models of lung |
-| Dr K Neves [{{< bi envelope >}}](karla.neves@strath.ac.uk) [{{< bi link >}}](https://pureportal.strath.ac.uk/en/persons/karla-neves)         | anti-cancer drugs, hypertension, vascular biology                                             | Assessing the vascular effects of combinational anti-cancer therapy                    |
-| Dr Z Rattray [{{< bi envelope >}}](zahra.rattray@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/rattrayzahradr/)             | Nanotechnology; Analysis; Bioanalysis                                                         | Nanotechnology-based formulations                                                      |
-| Dr Z Rattray [{{< bi envelope >}}](zahra.rattray@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/rattrayzahradr/)             | Clinical datasets; data analysis; breast cancer                                               | Understudied mutations in breast cancer                                                |
+| Dr T Bushell [{{< bi envelope >}}](mailto:trevor.bushell@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/bushelltrevordr/)    | astrocytes, protease-activated receptor-2 (PAR2), inflammation  | Cytokine release from cultured human astrocytes                                        |
+| Dr K Duncan [{{< bi envelope >}}](mailto:katherine.duncan@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/duncankatherinedr/) | | Taxonomic identification of marine _Actinomycetes_   |
+| Dr A Kurdi [{{< bi envelope >}}](amanj.baker@strath.ac.uk) [{{< bi link >}}](https://pureportal.strath.ac.uk/en/persons/amanj-kurdi) | | Impact of covid on the prescribing trend of antidepressants in the U.K. |
+| Prof M Maclean [{{< bi envelope >}}](mandy.maclean@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/macleanmandyprofessor/) | Estrogen, Human adipose cells, QRTPCR, Aromatise, CYP1B1, Serotonin, Endothelin, Cell culture | The effect of serotonin and endothelin on estrogen synthesis |
+| Prof G McConnell [{{< bi envelope >}}](g.mcconnell@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/mcconnellgailprof/) | | Characterising magnetic nanoparticles for biofilm remediation |
+| Dr F Murphy [{{< bi envelope >}}](f.murphy@strath.ac.uk) | | hazard assessment of nanomaterials, in vitro alternatives, 3D multicell models of lung |
+| Dr F Murphy [{{< bi envelope >}}](f.murphy@strath.ac.uk) | | hazard assessment of nanomaterials, in vitro alternatives, 3D multicell models of lung |
+| Dr K Neves [{{< bi envelope >}}](karla.neves@strath.ac.uk) [{{< bi link >}}](https://pureportal.strath.ac.uk/en/persons/karla-neves)  | anti-cancer drugs, hypertension, vascular biology | Assessing the vascular effects of combinational anti-cancer therapy |
+| Dr Z Rattray [{{< bi envelope >}}](zahra.rattray@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/rattrayzahradr/) | Nanotechnology; Analysis; Bioanalysis | Nanotechnology-based formulations |
+| Dr Z Rattray [{{< bi envelope >}}](zahra.rattray@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/rattrayzahradr/) | Clinical datasets; data analysis; breast cancer | Understudied mutations in breast cancer |
 
 ## Summer 2022
 
@@ -57,7 +57,7 @@ The table below lists PIs and the projects that were offered for Summer 2021.
 
 | PI            | Topics                | Project Title                    |
 |:--------------|:----------------------|:---------------------------------|
-| Dr H Batchelor [{{< bi envelope >}}](mailto:hannah.batchelor@strath.ac.uk) [{{< bi link >}}](https://pureportal.strath.ac.uk/en/persons/hannah-batchelor) | paediatric; formulation; biopharmaceutics |
+| Dr H Batchelor [{{< bi envelope >}}](mailto:hannah.batchelor@strath.ac.uk) [{{< bi link >}}](https://pureportal.strath.ac.uk/en/persons/hannah-batchelor) | paediatric; formulation; biopharmaceutics | TBA |
 | Dr KC Carter [{{< bi envelope >}}](mailto:k.carter@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/carterkatharinedr/) | leishmaniasis; vaccines; recombinant DNA; ELISA | Development of a vaccine for treatment of leishmaniasis |
 | Dr L Chamberlain [{{< bi envelope >}}](mailto:luke.chamberlain@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/chamberlainlukedr/)  | database analysis; cancer; S-acylation | TBA |
 | Dr K Duncan [{{< bi envelope >}}](mailto:katherine.duncan@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/duncankatherinedr/)  | marine biodiscovery; actinomycetes; microbial metabolomics, natural products  | TBA |
