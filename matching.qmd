@@ -37,9 +37,9 @@ In {{< var ay >}} the introductory session will take place on {{< var session.da
 
 ## Project List and Application Form
 
-Early in the academic year, scientists in SIPBS are asked if they would like to offer projects or placements in their groups for summer in the following year. These projects are collated on the [Current Projects]({{< var projects.current >}}) page.
+Early in the academic year, scientists in SIPBS are asked if they would like to offer projects or placements in their groups for summer in the following year. These projects are collated on the [Current Projects](%7B%7B%3C%20var%20projects.current%20%3E%7D%7D) page.
 
-After the introductory session, you will be invited to select up to three PIs, projects, or topics from this [Current Projects]({{< var projects.current >}}) list and to complete an Application Form for matching. This form will be made available after the session.
+After the introductory session, you will be invited to select up to three PIs, projects, or topics from this [Current Projects](%7B%7B%3C%20var%20projects.current%20%3E%7D%7D) list and to complete an Application Form for matching. This form will be made available after the session.
 
 ::: callout-warning
 In {{< var ay >}} the deadline for submitting the application form will be {{< var form.deadline >}}.

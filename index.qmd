@@ -23,10 +23,10 @@ These pages describe the SIPBS summer internship matching process and provide su
 
 ## Getting started
 
-We suggest that you start by looking over the description of the [Matching](matching.qmd) process, [Current Projects]({{< var projects.current >}}) and [External Funding](external_funding.md) under **General Information**. After that, please take a look at the [Slides](slides.md) and complete the [form](forms.md) if you wish to be considered for the matching process.
+We suggest that you start by looking over the description of the [Matching](matching.qmd) process, [Current Projects](%7B%7B%3C%20var%20projects.current%20%3E%7D%7D) and [External Funding](external_funding.md) under **General Information**. After that, please take a look at the [Slides](slides.md) and complete the [form](forms.md) if you wish to be considered for the matching process.
 
 ## Acknowledgements
 
-These pages were originally developed in 2023, and are currently maintained by, [{{< var admin.name >}}]({{< var admin.homepage >}}).
+These pages were originally developed in 2023, and are currently maintained by, [{{< var admin.name >}}](%7B%7B%3C%20var%20admin.homepage%20%3E%7D%7D).
 
-These materials are © University of Strathclyde, and licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). Linked and embedded materials are governed by their own licenses. I assume that all external materials used or embedded here are covered under the educational fair use policy. If this is not the case and any material displayed here violates copyright, please let [me]({{< var admin.email >}}) know and I will remove it.
+These materials are © University of Strathclyde, and licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). Linked and embedded materials are governed by their own licenses. I assume that all external materials used or embedded here are covered under the educational fair use policy. If this is not the case and any material displayed here violates copyright, please let [me](%7B%7B%3C%20var%20admin.email%20%3E%7D%7D) know and I will remove it.

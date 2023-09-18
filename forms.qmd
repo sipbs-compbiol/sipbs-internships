@@ -1,0 +1,25 @@
+---
+title: "Forms"
+image: assets/images/sipbs_form.png
+description: |
+ Internship-related forms
+number-sections: true
+about:
+  template: trestles
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/scompbiol
+    - icon: github
+      text: Github
+      href: https://github.com/sipbs-compbiol
+    - icon: envelope
+      text: Email
+      href: mailto:{{< var admin.email >}}
+html:
+  anchor-sections: true
+---
+
+This page provides a link to download the SIPBS internship matching application form.
+
+- [DOWNLOAD](assets/forms/SIPBS_Placement_Application_Form_2023-24.docx)
