@@ -2,8 +2,11 @@
 title: "Previous Projects"
 description: |
  Previously offered projects for SIPBS Internships.
-tbl-colwidths: [20, 40, 40]
-number-sections: true
+listing:
+  contents: projects
+  type: default
+  sort: "title desc"
+  max-items: 10
 about:
   template: marquee
   links:
@@ -19,49 +22,3 @@ about:
 html:
   anchor-sections: true
 ---
-
-## Summer 2023
-
-The table below lists PIs and the projects that were offered for Summer 2023.
-
-| PI            | Topics                | Project Title                    |
-|:--------------|:----------------------|:---------------------------------|
-| Dr T Bushell [{{< bi envelope >}}](mailto:trevor.bushell@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/bushelltrevordr/) | astrocytes, protease-activated receptor-2 (PAR2), inflammation  | Cytokine release from cultured human astrocytes |
-| Dr K Duncan [{{< bi envelope >}}](mailto:katherine.duncan@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/duncankatherinedr/) | | Taxonomic identification of marine _Actinomycetes_ |
-| Dr A Kurdi [{{< bi envelope >}}](amanj.baker@strath.ac.uk) [{{< bi link >}}](https://pureportal.strath.ac.uk/en/persons/amanj-kurdi) | | Impact of covid on the prescribing trend of antidepressants in the U.K. |
-| Prof M Maclean [{{< bi envelope >}}](mandy.maclean@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/macleanmandyprofessor/) | Estrogen, Human adipose cells, QRTPCR, Aromatise, CYP1B1, Serotonin, Endothelin, Cell culture | The effect of serotonin and endothelin on estrogen synthesis |
-| Prof G McConnell [{{< bi envelope >}}](g.mcconnell@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/mcconnellgailprof/) | | Characterising magnetic nanoparticles for biofilm remediation |
-| Dr F Murphy [{{< bi envelope >}}](f.murphy@strath.ac.uk) | | hazard assessment of nanomaterials, in vitro alternatives, 3D multicell models of lung |
-| Dr F Murphy [{{< bi envelope >}}](f.murphy@strath.ac.uk) | | hazard assessment of nanomaterials, in vitro alternatives, 3D multicell models of lung |
-| Dr K Neves [{{< bi envelope >}}](karla.neves@strath.ac.uk) [{{< bi link >}}](https://pureportal.strath.ac.uk/en/persons/karla-neves)  | anti-cancer drugs, hypertension, vascular biology | Assessing the vascular effects of combinational anti-cancer therapy |
-| Dr Z Rattray [{{< bi envelope >}}](zahra.rattray@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/rattrayzahradr/) | Nanotechnology; Analysis; Bioanalysis | Nanotechnology-based formulations |
-| Dr Z Rattray [{{< bi envelope >}}](zahra.rattray@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/rattrayzahradr/) | Clinical datasets; data analysis; breast cancer | Understudied mutations in breast cancer |
-
-## Summer 2022
-
-The table below lists PIs and the projects that were offered for Summer 2022.
-
-| PI            | Topics                | Project Title                    |
-|:--------------|:----------------------|:---------------------------------|
-| Prof G Gould [{{< bi envelope >}}](mailto:gwyn.gould@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/gouldgwynprofessor/)| fat cell; lipid droplet; ageing; diabetes | Characterising ageing fat cells |
-| Prof W Harnett [{{< bi envelope >}}](mailto:w.harnett@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/harnettwilliamprof/) | | Antiinflammatory properties and therapeutic potential of the secreted parasitic worm product ES-62| 
-| Dr A Kurdi [{{< bi envelope >}}](mailto:amanj.baker@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/bakeramanjmr/) | prescriptions; pharmacy; data analysis | Impact of COVID-19 pandemic on the prescribing pattern of mental health medications in the UK: a cross-national comparison study |
-| Prof G McConnell [{{< bi envelope >}}](mailto:g.mcconnell@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/mcconnellgailprof/) | microscopy;image analysis; image processing | TBA |
-| Dr L Pritchard [{{< bi envelope >}}](mailto:leighton.pritchard@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/pritchardleightondr/) | computational biology; bioinformatics; (i) transcriptional regulation, microbiology, microbial genomics; (ii) whole-genome metabolic modelling; metabolism; cardiomyocytes | TBA: up to 2 students |
-| Dr Z & Dr N Rattray [{{< bi envelope >}}](mailto:zahra.rattray@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/rattrayzahradr/)  | Cancer; Bioinformatics; Data Analysis | TBA: can take 2-4 students |
-| Dr N Tucker [{{< bi envelope >}}](mailto:nick.tucker@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/tuckernicholasdr/) | Microbiology, _Pseudomonas aeruginosa_, transcriptional regulation, nitrogen metabolism, infection | Comparing nitrosative stress responses between _Pseudomonas aeruginosa_ strains PA01 and the Liverpool Epidemic Strain  |
-
-## Summer 2021
-
-The table below lists PIs and the projects that were offered for Summer 2021.
-
-| PI            | Topics                | Project Title                    |
-|:--------------|:----------------------|:---------------------------------|
-| Dr H Batchelor [{{< bi envelope >}}](mailto:hannah.batchelor@strath.ac.uk) [{{< bi link >}}](https://pureportal.strath.ac.uk/en/persons/hannah-batchelor) | paediatric; formulation; biopharmaceutics | TBA |
-| Dr KC Carter [{{< bi envelope >}}](mailto:k.carter@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/carterkatharinedr/) | leishmaniasis; vaccines; recombinant DNA; ELISA | Development of a vaccine for treatment of leishmaniasis |
-| Dr L Chamberlain [{{< bi envelope >}}](mailto:luke.chamberlain@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/chamberlainlukedr/)  | database analysis; cancer; S-acylation | TBA |
-| Dr K Duncan [{{< bi envelope >}}](mailto:katherine.duncan@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/duncankatherinedr/)  | marine biodiscovery; actinomycetes; microbial metabolomics, natural products  | TBA |
-| Dr A Kurdi [{{< bi envelope >}}](mailto:amanj.baker@strath.ac.uk)  [{{< bi link >}}](https://www.strath.ac.uk/staff/bakeramanjmr/) | prescriptions; pharmacy; data analysis                     | Top ten conditions in terms of prescription items and expenditure across the UK: what is the trend over the last decade? |
-| Dr IDH Oswald [{{< bi envelope >}}](mailto:iain.oswald@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/oswaldiaindr/) | materials & manufacture; co-crystals; polymorphism; spectroscopy | Multicomponent materials under extreme conditions |
-| Dr L Pritchard [{{< bi envelope >}}](mailto:leighton.pritchard@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/pritchardleightondr/) | microbial genomics; computational biology; bioinformatics; metabolic modelling | TBA |
-

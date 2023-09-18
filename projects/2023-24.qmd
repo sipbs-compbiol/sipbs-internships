@@ -1,0 +1,46 @@
+---
+title: "Projects: Summer 2024"
+image: ../assets/images/2024.jpg
+description: |
+ Projects offered for SIPBS Internships, starting Summer 2024.
+tbl-colwidths: [20, 40, 40]
+number-sections: true
+about:
+  template: marquee
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/scompbiol
+    - icon: github
+      text: Github
+      href: https://github.com/sipbs-compbiol
+    - icon: envelope
+      text: Email
+      href: mailto:leighton.pritchard@strath.ac.uk
+html:
+  anchor-sections: true
+---
+
+## Offered Project Summaries
+
+The table below lists PIs who have actively indicated they would welcome SIPBS internship applicants for project work in Summer 2024.
+
+::: callout-important
+All project titles, and their availabilities, are provisional.
+:::
+
+::: callout-warning
+Some projects may only go ahead if suitable funding is obtained, or other conditions are met.
+:::
+
+| PI                                                                                                                                        | Topics                                                         | Project Title                                                     |
+|:----------------------|:------------------------|:------------------------|
+| Dr T Bushell [{{< bi envelope >}}](mailto:trevor.bushell@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/bushelltrevordr/) | astrocytes, protease-activated receptor-2 (PAR2), inflammation | [Cytokine release from cultured human astrocytes](#sec-bushell-1) |
+
+## Project Descriptions
+
+### Dr T Bushell: Cytokine release from cultured human astrocytes {#sec-bushell-1}
+
+Keywords: astrocytes, protease-activated receptor-2 (PAR2), inflammation
+
+We have shown that PAR2 activation may contribute to depression-like behaviour through cytokine release from activated astrocytes. In this study, we would examine the consequence of PAR2 activation and inhibition on cytokine release from cultured human astrocytes.
