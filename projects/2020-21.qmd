@@ -16,7 +16,7 @@ about:
       href: https://github.com/sipbs-compbiol
     - icon: envelope
       text: Email
-      href: mailto:leighton.pritchard@strath.ac.uk
+      href: mailto:{{< var admin.email >}}
 html:
   anchor-sections: true
 ---
@@ -26,14 +26,13 @@ html:
 The table below lists PIs who indicated they would welcome SIPBS internship applicants for project work in Summer 2021.
 
 | PI                                                                                                                                                        | Topics                                                                         | Project Title                                                                                                            |
-|:-----------------|:---------------------|:--------------------------------|
+|:-----------------|:---------------------|:-------------------------------|
 | Dr H Batchelor [{{< bi envelope >}}](mailto:hannah.batchelor@strath.ac.uk) [{{< bi link >}}](https://pureportal.strath.ac.uk/en/persons/hannah-batchelor) | paediatric; formulation; biopharmaceutics                                      | TBA                                                                                                                      |
 | Dr KC Carter [{{< bi envelope >}}](mailto:k.carter@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/carterkatharinedr/)                     | leishmaniasis; vaccines; recombinant DNA; ELISA                                | Development of a vaccine for treatment of leishmaniasis                                                                  |
 | Dr L Chamberlain [{{< bi envelope >}}](mailto:luke.chamberlain@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/chamberlainlukedr/)         | database analysis; cancer; S-acylation                                         | TBA                                                                                                                      |
 | Dr K Duncan [{{< bi envelope >}}](mailto:katherine.duncan@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/duncankatherinedr/)              | marine biodiscovery; actinomycetes; microbial metabolomics, natural products   | TBA                                                                                                                      |
 | Dr A Kurdi [{{< bi envelope >}}](mailto:amanj.baker@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/bakeramanjmr/)                         | prescriptions; pharmacy; data analysis                                         | Top ten conditions in terms of prescription items and expenditure across the UK: what is the trend over the last decade? |
 | Dr IDH Oswald [{{< bi envelope >}}](mailto:iain.oswald@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/oswaldiaindr/)                      | materials & manufacture; co-crystals; polymorphism; spectroscopy               | Multicomponent materials under extreme conditions                                                                        |
-| Dr L Pritchard [{{< bi envelope >}}](mailto:leighton.pritchard@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/pritchardleightondr/)       | microbial genomics; computational biology; bioinformatics; metabolic modelling | TBA                                                 
+| Dr L Pritchard [{{< bi envelope >}}](mailto:leighton.pritchard@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/pritchardleightondr/)       | microbial genomics; computational biology; bioinformatics; metabolic modelling | TBA                                                                                                                      |
 
 ## Project Descriptions
-
