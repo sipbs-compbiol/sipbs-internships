@@ -33,6 +33,8 @@ website:
         href: https://twitter.com/scompbiol
       - icon: rss
         href: index.xml  
+  page-footer: 
+    left: This site © University of Strathclyde 2023
 
 format:
   html:
