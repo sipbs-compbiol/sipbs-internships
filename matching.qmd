@@ -1,0 +1,86 @@
+---
+title: "SIPBS Internship Matching"
+description: |
+ How we go about matching students to PIs and projects
+number-sections: true
+about:
+  template: marquee
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/scompbiol
+    - icon: github
+      text: Github
+      href: https://github.com/sipbs-compbiol
+    - icon: envelope
+      text: Email
+      href: mailto:leighton.pritchard@strath.ac.uk
+html:
+  anchor-sections: true
+---
+
+This page describes the process we use for matching students with SIPBS supervisors and projects for summer internships, what happens after matching, and when.
+
+::: callout-important
+**Even though we offer a matching scheme for summer internships and placements, you are at all times at liberty to pursue internships independently. There is no obligation to use the matching scheme, and whether or not you are selected through this scheme, you are of course able to apply for any internships that are available through other routes.**
+:::
+
+![2023 Internship Matching Process Flowchart](./assets/images/2023_internship_flowchart.png)
+
+## Introductory Lecture
+
+As part of the BM327 Being a Biomolecular Scientist module ([MyPlace link](https://classes.myplace.strath.ac.uk/course/view.php?id=21691)) we introduce the SIPBS internship matching process at an in-person session.
+
+::: {.callout-note}
+In AY2023-24 the introductory session will take place on **Friday 20th October 2023, in GH514**.
+:::
+
+## Project List and Application Form
+
+Early in the academic year, scientists in SIPBS are asked if they would like to offer projects or placements in their groups for summer in the following year. These projects are collated on the [Current Projects](./current_projects.qmd) page.
+
+After the introductory session, you will be invited to select up to three PIs, projects, or topics from this [Current Projects](./current_projects.qmd) list and to complete an Application Form for matching. This form will be made available after the session.
+
+::: {.callout-warning}
+In AY2023-24 the deadline for submitting the application form will be **Monday 30th October 2023**. 
+
+Forms should be emailed to [philip.brown@strath.ac.uk](mailto:philip.brown@strath.ac.uk)
+:::
+
+## Student Matching and Project Allocation
+
+We operate a ranking process for applications. Applicants are ranked in order by second-year credit-weighted average (%CMA). The highest-ranked students, usually about 8-10, are allocated to projects and supervisors on the basis of student preference.
+
+::: {.callout-note}
+Other criteria are applied for third-year direct entrants. A number of places are reserved to accommodate these students.
+:::
+
+::: {.callout-warning}
+Applicants may be excluded from consideration on the basis of January examination results (e.g. a failing mark).
+:::
+
+In AY2023-23, we expect matching of students to supervisors and projects to be complete by December 2023.
+
+## Student-Supervisor Meeting
+
+In order to be in time for [internship and placement funding opportunity](./external_funding.qmd) deadlines, we ask students and supervisors to meet early in the new year to discuss the project and plan out how to seek funding. In AY2023-24, we expect these meetings to take place in January 2024.
+
+::: {.callout-important}
+Arranging this meeting is the responsibility of the student and the supervisor. Successful applicants should be sure to contact their supervisor as early as practicable.
+:::
+
+## Funding Applications
+
+There are several [opportunities available for internship funding](./external_funding.qmd), and their deadlines for application typically fall in Semester 2. Please be sure to check the details of individual funding schemes for deadlines and any other requirements.
+
+::: {.callout-important}
+Funding applications are the responsibility of the student and the supervisor.
+:::
+
+## Project Start Dates
+
+Summer placement projects typically begin after the Formal Assessment Period (i.e. Summer Exams), but timing is flexible and to be agreed between supervisor and student.
+
+::: {.callout-important}
+Funding timings should be agreed between the student and the supervisor.
+:::
