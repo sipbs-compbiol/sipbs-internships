@@ -29,10 +29,10 @@ This page describes the process we use for matching students with SIPBS supervis
 
 ## Introductory Lecture
 
-As part of the BM327 Being a Biomolecular Scientist module ([MyPlace link](https://classes.myplace.strath.ac.uk/course/view.php?id=21691)) we introduce the SIPBS internship matching process at an in-person session.
+As part of the {{< var myplace.course >}} module ([MyPlace link]({{< var myplace.link >}})) we introduce the SIPBS internship matching process at an in-person session.
 
-::: {.callout-note}
-In AY2023-24 the introductory session will take place on **Friday 20th October 2023, in GH514**.
+::: callout-note
+In {{< var ay >}} the introductory session will take place on **{{< var session.date >}}, in {{< var session.location >}}**.
 :::
 
 ## Project List and Application Form
@@ -41,31 +41,31 @@ Early in the academic year, scientists in SIPBS are asked if they would like to 
 
 After the introductory session, you will be invited to select up to three PIs, projects, or topics from this [Current Projects](./current_projects.qmd) list and to complete an Application Form for matching. This form will be made available after the session.
 
-::: {.callout-warning}
-In AY2023-24 the deadline for submitting the application form will be **Monday 30th October 2023**. 
+::: callout-warning
+In {{< var ay >}} the deadline for submitting the application form will be **{{< var form.deadline >}}**.
 
-Forms should be emailed to [philip.brown@strath.ac.uk](mailto:philip.brown@strath.ac.uk)
+Forms should be emailed to [{{< var form.email >}}](mailto:{{< var form.email >}})
 :::
 
 ## Student Matching and Project Allocation
 
 We operate a ranking process for applications. Applicants are ranked in order by second-year credit-weighted average (%CMA). The highest-ranked students, usually about 8-10, are allocated to projects and supervisors on the basis of student preference.
 
-::: {.callout-note}
+::: callout-note
 Other criteria are applied for third-year direct entrants. A number of places are reserved to accommodate these students.
 :::
 
-::: {.callout-warning}
+::: callout-warning
 Applicants may be excluded from consideration on the basis of January examination results (e.g. a failing mark).
 :::
 
-In AY2023-23, we expect matching of students to supervisors and projects to be complete by December 2023.
+In {{< var ay >}}, we expect matching of students to supervisors and projects to be complete by {{< var matching.date >}}.
 
 ## Student-Supervisor Meeting
 
-In order to be in time for [internship and placement funding opportunity](./external_funding.qmd) deadlines, we ask students and supervisors to meet early in the new year to discuss the project and plan out how to seek funding. In AY2023-24, we expect these meetings to take place in January 2024.
+In order to be in time for [internship and placement funding opportunity](./external_funding.qmd) deadlines, we ask students and supervisors to meet early in the new year to discuss the project and plan out how to seek funding. In AY2023-24, we expect these meetings to take place in {{< var meeting.date >}}.
 
-::: {.callout-important}
+::: callout-important
 Arranging this meeting is the responsibility of the student and the supervisor. Successful applicants should be sure to contact their supervisor as early as practicable.
 :::
 
@@ -73,7 +73,7 @@ Arranging this meeting is the responsibility of the student and the supervisor. 
 
 There are several [opportunities available for internship funding](./external_funding.qmd), and their deadlines for application typically fall in Semester 2. Please be sure to check the details of individual funding schemes for deadlines and any other requirements.
 
-::: {.callout-important}
+::: callout-important
 Funding applications are the responsibility of the student and the supervisor.
 :::
 
@@ -81,6 +81,6 @@ Funding applications are the responsibility of the student and the supervisor.
 
 Summer placement projects typically begin after the Formal Assessment Period (i.e. Summer Exams), but timing is flexible and to be agreed between supervisor and student.
 
-::: {.callout-important}
+::: callout-important
 Funding timings should be agreed between the student and the supervisor.
 :::
