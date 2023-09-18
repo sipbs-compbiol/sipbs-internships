@@ -28,7 +28,7 @@ The table below lists PIs who have actively indicated they would welcome SIPBS i
 All project titles, and their availabilities, are provisional.
 :::
 
-::: callout-important
+::: callout-warning
 Some projects may only go ahead if suitable funding is obtained, or other conditions are met.
 :::
 
