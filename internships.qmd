@@ -1,0 +1,60 @@
+---
+title: "What is an Internship?"
+description: |
+ What an internship is and how it can help
+number-sections: true
+about:
+  template: marquee
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/scompbiol
+    - icon: github
+      text: Github
+      href: https://github.com/sipbs-compbiol
+    - icon: envelope
+      text: Email
+      href: mailto:leighton.pritchard@strath.ac.uk
+html:
+  anchor-sections: true
+---
+
+This page aims to describe what an internship and how it might be useful for your future career and other ambitions.
+
+## What is an internship?
+
+An internship is a period of professional work experience. In the case of the SIPBS matching scheme, this is typically an 8-10 week summer placement in a working research laboratory within the department.
+
+## Will I be paid?
+
+Internships may be paid, unpaid, or partially-paid (e.g. the student may receive a stipend for the period, rather than an hourly rate).
+
+The SIPBS matching scheme provides no funds either for the student, or in support of the project. Supervisors who offer projects may have financial resources that could be used to fund the project or pay the intern. Alternatively the student or the supervisor (or both together, depending on the scheme) may apply for funding from a third party, such as the university, a charity, or professional society, to support the placement.
+
+## What will I get from the experience?
+
+By engaging in a practical research project, you will obtain skills, knowledge, and experience that cannot be obtained in other ways. You will be able to establish professional connections and begin to network in the field, as well as contributing to finding answers to real, cutting-edge research questions.
+
+If you think you might be interested in a research career, then a placement is one way to find out if that career path is something you might like.
+
+Where placements, or their funding, are competitive, there may be an element of prestige to winning that funding which helps make your future CV stand out against other applicants'.
+
+## What kinds of project might I be able to do?
+
+::: .callout-note
+The range of projects and supervisors varies year-by-year, and you are always free to approach supervisors at other universities or in industry to find a project that suits you.
+:::
+
+Please take a look at the [Previous Projects](./previous_projects.qmd) page to see what projects have been on offer previously. General areas in which projects have been offered within SIPBS include:
+
+- Cellular Basis of Disease
+  - Cancer
+  - Inflammatory disease
+  - Cardiovascular and metabolic disease
+  - Neuroscience and mental health
+- Computational Biology and Bioinformatics
+  - Metabolic modelling of heart cells
+  - Reconstructing regulatory networks in bacteria
+- Industrial Biotechnology
+- Microbiology
+- Pharmaceutical Sciences

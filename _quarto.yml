@@ -13,6 +13,8 @@ website:
         file: index.qmd
       - text: "General Information"
         menu:
+        - text: "What is an Internship?"
+          href: internships.qmd
         - text: "Matching"
           href: matching.qmd
         - text: "Current Projects"
