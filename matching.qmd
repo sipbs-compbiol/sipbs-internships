@@ -14,7 +14,7 @@ about:
       href: https://github.com/sipbs-compbiol
     - icon: envelope
       text: Email
-      href: mailto:leighton.pritchard@strath.ac.uk
+      href: mailto:{{< var admin.email >}}
 html:
   anchor-sections: true
 ---
@@ -29,22 +29,22 @@ This page describes the process we use for matching students with SIPBS supervis
 
 ## Introductory Lecture
 
-As part of the {{< var myplace.course >}} module ([MyPlace link]({{< var myplace.link >}})) we introduce the SIPBS internship matching process at an in-person session.
+As part of the {{< var myplace.course >}} module ([MyPlace link](%7B%7B%3C%20var%20myplace.link%20%3E%7D%7D)) we introduce the SIPBS internship matching process at an in-person session.
 
 ::: callout-note
-In {{< var ay >}} the introductory session will take place on **{{< var session.date >}}, in {{< var session.location >}}**.
+In {{< var ay >}} the introductory session will take place on {{< var session.date >}}**, in** {{< var session.location >}}.
 :::
 
 ## Project List and Application Form
 
-Early in the academic year, scientists in SIPBS are asked if they would like to offer projects or placements in their groups for summer in the following year. These projects are collated on the [Current Projects](./current_projects.qmd) page.
+Early in the academic year, scientists in SIPBS are asked if they would like to offer projects or placements in their groups for summer in the following year. These projects are collated on the [Current Projects]({{< var projects.current >}}) page.
 
-After the introductory session, you will be invited to select up to three PIs, projects, or topics from this [Current Projects](./current_projects.qmd) list and to complete an Application Form for matching. This form will be made available after the session.
+After the introductory session, you will be invited to select up to three PIs, projects, or topics from this [Current Projects]({{< var projects.current >}}) list and to complete an Application Form for matching. This form will be made available after the session.
 
 ::: callout-warning
-In {{< var ay >}} the deadline for submitting the application form will be **{{< var form.deadline >}}**.
+In {{< var ay >}} the deadline for submitting the application form will be {{< var form.deadline >}}.
 
-Forms should be emailed to [{{< var form.email >}}](mailto:{{< var form.email >}})
+Forms should be emailed to [{{< var form.email >}}](mailto:%7B%7B%3C%20var%20form.email%20%3E%7D%7D)
 :::
 
 ## Student Matching and Project Allocation

@@ -18,7 +18,7 @@ website:
         - text: "Matching"
           href: matching.qmd
         - text: "Current Projects"
-          href: current_projects.qmd
+          href: projects/2023-24.qmd
         - text: "External Funding Opporunities"
           href: external_funding.qmd
       - text: "Materials"
