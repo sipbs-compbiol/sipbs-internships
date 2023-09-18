@@ -16,7 +16,7 @@ about:
       href: https://github.com/sipbs-compbiol
     - icon: envelope
       text: Email
-      href: mailto:{{< var admin.email >}}
+      href: mailto:leighton.pritchard@strath.ac.uk
 html:
   anchor-sections: true
 ---
@@ -26,7 +26,7 @@ html:
 The table below lists PIs who indicated they would welcome SIPBS internship applicants for project work in Summer 2021.
 
 | PI                                                                                                                                                        | Topics                                                                         | Project Title                                                                                                            |
-|:-----------------|:---------------------|:-------------------------------|
+|:------------------|:---------------------|:-------------------------------|
 | Dr H Batchelor [{{< bi envelope >}}](mailto:hannah.batchelor@strath.ac.uk) [{{< bi link >}}](https://pureportal.strath.ac.uk/en/persons/hannah-batchelor) | paediatric; formulation; biopharmaceutics                                      | TBA                                                                                                                      |
 | Dr KC Carter [{{< bi envelope >}}](mailto:k.carter@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/carterkatharinedr/)                     | leishmaniasis; vaccines; recombinant DNA; ELISA                                | Development of a vaccine for treatment of leishmaniasis                                                                  |
 | Dr L Chamberlain [{{< bi envelope >}}](mailto:luke.chamberlain@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/chamberlainlukedr/)         | database analysis; cancer; S-acylation                                         | TBA                                                                                                                      |

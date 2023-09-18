@@ -1,8 +1,8 @@
 ---
-title: "Forms"
-image: assets/images/sipbs_form.png
+title: "Slides"
+image: assets/images/2023-24_slides.png
 description: |
- Internship-related forms
+ Internship-related presentation slides
 number-sections: true
 about:
   template: trestles
@@ -20,6 +20,6 @@ html:
   anchor-sections: true
 ---
 
-This page provides a link to download the SIPBS internship matching application form.
+This page provides a link to download the SIPBS internship matching presentation slides for {{< var ay >}}.
 
--   [DOWNLOAD]({{< var form.link >}})
+- [DOWNLOAD]({{< var session.slides >}})

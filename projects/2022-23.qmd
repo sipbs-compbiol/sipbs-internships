@@ -16,7 +16,7 @@ about:
       href: https://github.com/sipbs-compbiol
     - icon: envelope
       text: Email
-      href: mailto:{{< var admin.email >}}
+      href: mailto:leighton.pritchard@strath.ac.uk
 html:
   anchor-sections: true
 ---
@@ -26,7 +26,7 @@ html:
 The table below lists PIs who indicated they would welcome SIPBS internship applicants for project work in Summer 2022.
 
 | PI                                                                                                                                           | Topics                                                                                        | Project Title                                                                          |
-|:-----------------|:---------------------|:-------------------------------|
+|:------------------|:---------------------|:-------------------------------|
 | Dr T Bushell [{{< bi envelope >}}](mailto:trevor.bushell@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/bushelltrevordr/)    | astrocytes, protease-activated receptor-2 (PAR2), inflammation                                | Cytokine release from cultured human astrocytes                                        |
 | Dr K Duncan [{{< bi envelope >}}](mailto:katherine.duncan@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/duncankatherinedr/) |                                                                                               | Taxonomic identification of marine *Actinomycetes*                                     |
 | Dr A Kurdi [{{< bi envelope >}}](amanj.baker@strath.ac.uk) [{{< bi link >}}](https://pureportal.strath.ac.uk/en/persons/amanj-kurdi)         |                                                                                               | Impact of covid on the prescribing trend of antidepressants in the U.K.                |

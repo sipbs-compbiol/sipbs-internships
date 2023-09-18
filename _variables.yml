@@ -11,10 +11,13 @@ projects:
 session:
   date: "Friay 20th October 2023"
   location: "GH514"
+  presentation: "assets/presentations/2023-24_introduction_to_SIPBS_Internships.pdf"
+  image: "assets/images/2023-24_slides.png"
 
 form:
   deadline: "Monday 30th October 2023"
   email: "philip.brown@strath.ac.uk"
+  link: "assets/forms/SIPBS_Placement_Application_Form_2023-24.docx"
   
 matching:
   date: "December 2023"

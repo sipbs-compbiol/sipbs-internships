@@ -16,7 +16,7 @@ about:
       href: https://github.com/sipbs-compbiol
     - icon: envelope
       text: Email
-      href: mailto:{{< var admin.email >}}
+      href: mailto:leighton.pritchard@strath.ac.uk
 html:
   anchor-sections: true
 ---
@@ -26,7 +26,7 @@ html:
 The table below lists PIs who indicated they would welcome SIPBS internship applicants for project work in Summer 2022.
 
 | PI                                                                                                                                                  | Topics                                                                                                                                                                     | Project Title                                                                                                                    |
-|:-----------------|:---------------------|:-------------------------------|
+|:------------------|:---------------------|:-------------------------------|
 | Prof G Gould [{{< bi envelope >}}](mailto:gwyn.gould@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/gouldgwynprofessor/)            | fat cell; lipid droplet; ageing; diabetes                                                                                                                                  | Characterising ageing fat cells                                                                                                  |
 | Prof W Harnett [{{< bi envelope >}}](mailto:w.harnett@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/harnettwilliamprof/)           |                                                                                                                                                                            | Antiinflammatory properties and therapeutic potential of the secreted parasitic worm product ES-62                               |
 | Dr A Kurdi [{{< bi envelope >}}](mailto:amanj.baker@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/bakeramanjmr/)                   | prescriptions; pharmacy; data analysis                                                                                                                                     | Impact of COVID-19 pandemic on the prescribing pattern of mental health medications in the UK: a cross-national comparison study |

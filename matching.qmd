@@ -14,7 +14,7 @@ about:
       href: https://github.com/sipbs-compbiol
     - icon: envelope
       text: Email
-      href: mailto:{{< var admin.email >}}
+      href: mailto:leighton.pritchard@strath.ac.uk
 html:
   anchor-sections: true
 ---

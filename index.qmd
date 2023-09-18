@@ -12,7 +12,7 @@ about:
       href: https://github.com/sipbs-compbiol
     - icon: envelope
       text: Email
-      href: mailto:{{< var admin.email >}}
+      href: mailto:leighton.pritchard@strath.ac.uk
 ---
 
 Welcome to the SIPBS Summer Internships and Internship Matching pages for the Strathclyde Institute of Pharmacy and Biomedical Sciences!

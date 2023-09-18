@@ -17,7 +17,7 @@ about:
       href: https://github.com/sipbs-compbiol
     - icon: envelope
       text: Email
-      href: mailto:{{< var admin.email >}}
+      href: mailto:leighton.pritchard@strath.ac.uk
 html:
   anchor-sections: true
 ---
@@ -34,41 +34,49 @@ All project titles, and their availabilities, are provisional.
 Some projects may only go ahead if suitable funding is obtained, or other conditions are met.
 :::
 
-| PI                                                                                                                                        | Topics                                                         | Project Title                                                     |
+| PI                                                                                                                                   | Topics                                                         | Project Title                                                                                         |
 |:----------------------|:------------------------|:------------------------|
-|  Dr F Murphy [{{< bi envelope >}}](f.murphy@strath.ac.uk) | nanotoxicology, in vitro alternative, sustainable cell culture | [‘Humanising’ cell culture conditions for in vitro hazard assessment of nanomaterials](#sec-murphy-1) |
-| Dr K Neves [{{< bi envelope >}}](karla.neves@strath.ac.uk) [{{< bi link >}}](https://pureportal.strath.ac.uk/en/persons/karla-neves)         | vascular biology, obesity, pulmonary hypertension                                             | [Peripheral vascular effects of pulmonary hypertension (PAH) and obesity](#sec-neves-1)                    |
+| Dr F Murphy [{{< bi envelope >}}](f.murphy@strath.ac.uk)                                                                             | nanotoxicology, in vitro alternative, sustainable cell culture | ['Humanising' cell culture conditions for in vitro hazard assessment of nanomaterials](#sec-murphy-1) |
+| Dr K Neves [{{< bi envelope >}}](karla.neves@strath.ac.uk) [{{< bi link >}}](https://pureportal.strath.ac.uk/en/persons/karla-neves) | vascular biology, obesity, pulmonary hypertension              | [Peripheral vascular effects of pulmonary hypertension (PAH) and obesity](#sec-neves-1)               |
 
 ## Project Descriptions
 
-### Dr F. Murphy: ‘Humanising’ cell culture conditions for in vitro hazard assessment of nanomaterials {#sec-murphy-1}
+### Dr F. Murphy: 'Humanising' cell culture conditions for in vitro hazard assessment of nanomaterials {#sec-murphy-1}
 
 Keywords: nanotoxicology, in vitro alternative, sustainable cell culture
 
 #### Brief overview
 
-This project will involve assessing the impact of replacing animal-derived products (e.g. FBS) with human alternatives in the culture of lung cells to promote more ethical and sustainable toxicity testing of nanomaterials. Cell growth rates, differentiation state and sensitivity to pro-inflammatory agents and exposure to nanomaterials will be compared between cells cultured in media containing common animal-derived supplements or human-derived/synthetic alternatives. 
+This project will involve assessing the impact of replacing animal-derived products (e.g. FBS) with human alternatives in the culture of lung cells to promote more ethical and sustainable toxicity testing of nanomaterials. Cell growth rates, differentiation state and sensitivity to pro-inflammatory agents and exposure to nanomaterials will be compared between cells cultured in media containing common animal-derived supplements or human-derived/synthetic alternatives.
 
 #### Background
 
-The vast array of nanomaterials (NMs) under development raises ethical concerns over the reliance and extent of animal usage in the hazard assessment of substances. @BURDEN201710 promoted consideration of the 3Rs (reduce, refine, replace) concept as a framework when developing strategies in nanosafety assessment [@BURDEN201710]. This approach requires the use of New Approach Methods (NAM) and novel in vitro models to generate the appropriate toxicity data for the hazard assessment of new materials. 
+The vast array of nanomaterials (NMs) under development raises ethical concerns over the reliance and extent of animal usage in the hazard assessment of substances. @BURDEN201710 promoted consideration of the 3Rs (reduce, refine, replace) concept as a framework when developing strategies in nanosafety assessment [@BURDEN201710]. This approach requires the use of New Approach Methods (NAM) and novel in vitro models to generate the appropriate toxicity data for the hazard assessment of new materials.
 
 Many of the methods in current use are reliant on the use of animal-derived materials and reagents, in particular cell-based assays which grow cells in media supplemented with animal serum and the use of monoclonal animals raised in rodents and rabbits. The information gathered by in vitro testing therefore cannot be considered animal-free unless adaptions are made to standard in vitro protocols to replace all animal-derived reagents.
 
-Foetal bovine serum (FBS) is used by default as an additive for cell, organ and tissue culture media in biomedical research and testing to enhance cell growth and proliferation. Serum serves as a source of amino acids, proteins, vitamins, carbohydrates, lipids, hormones, growth factors, inorganic salts, trace elements, and other compounds. It also improves the pH-buffering capacity of the medium and helps to reduce shear stress (i.e., physical damage that is caused by pipette manipulation and stirring). However, the production is unregulated and often associated with ethically and legally questionable practices and animal suffering [@VANDERVALK20041]. 
+Foetal bovine serum (FBS) is used by default as an additive for cell, organ and tissue culture media in biomedical research and testing to enhance cell growth and proliferation. Serum serves as a source of amino acids, proteins, vitamins, carbohydrates, lipids, hormones, growth factors, inorganic salts, trace elements, and other compounds. It also improves the pH-buffering capacity of the medium and helps to reduce shear stress (i.e., physical damage that is caused by pipette manipulation and stirring). However, the production is unregulated and often associated with ethically and legally questionable practices and animal suffering [@VANDERVALK20041].
 
 Furthermore using FBS in cell culture presents a number of significant scientific challenges; the exact composition of FBS is unknown, there is a risk of contamination with pathogens, and reproducibility of scientific experiments suffers from inconsistencies between FBS batches [@Liu2023]. Omitting ill-defined animal-derived ingredients like FBS is recommended in the Guidance Document on Good In Vitro Method Practices (GIVIMP), a key tool for ensuring reproducible study data generation [@9789264304796].
 
-Human platelets contain abundant cytokines and growth factors offering the potential to replace FBS as universal growth supplement for cell culture [@BURDEN201710].  
+Human platelets contain abundant cytokines and growth factors offering the potential to replace FBS as universal growth supplement for cell culture [@BURDEN201710].
 
 #### Objectives:
 
-1.	Assess the impact of replacing FBS in human immune cell lines, THP-1 with HPL.
-  a.	Determine growth rate during cell-line maintenance.
-  b.	Assess impact on differentiation from monocyte to macrophage phenotype.
-2. The aim of this project is to challenge the status quo methods used as standard in labs, often without consideration of the scientific or ethical implications. Therefore, a strategy to disseminate study aims and results will be developed utilising social media platforms and generation of explainer videos targeted at academics, students and the general public to promote the need to replace animal-derived products in scientific studies. 
+1.  Assess the impact of replacing FBS in human immune cell lines, THP-1 with HPL.
 
-This project will therefore build the student’s scientific skills in experimental design, lab techniques, analysis of data and dissemination of results. 
+```{=html}
+<!-- -->
+```
+a.  Determine growth rate during cell-line maintenance.
+b.  Assess impact on differentiation from monocyte to macrophage phenotype.
+
+```{=html}
+<!-- -->
+```
+2.  The aim of this project is to challenge the status quo methods used as standard in labs, often without consideration of the scientific or ethical implications. Therefore, a strategy to disseminate study aims and results will be developed utilising social media platforms and generation of explainer videos targeted at academics, students and the general public to promote the need to replace animal-derived products in scientific studies.
+
+This project will therefore build the student's scientific skills in experimental design, lab techniques, analysis of data and dissemination of results.
 
 ### Dr K. Neves: Peripheral vascular effects of pulmonary hypertension (PAH) and obesity. {#sec-neves-1}
 

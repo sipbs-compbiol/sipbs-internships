@@ -41,24 +41,24 @@ Where placements, or their funding, are competitive, there may be an element of 
 
 ## What kinds of project might I be able to do?
 
-::: .callout-note
+::: callout-note
 The range of projects and supervisors varies year-by-year, and you are always free to approach supervisors at other universities or in industry to find a project that suits you.
 :::
 
 Please take a look at the [Previous Projects](./previous_projects.qmd) page to see what projects have been on offer previously. General areas in which projects have been offered within SIPBS include:
 
-- Cellular Basis of Disease
-  - Cancer
-  - Inflammatory disease
-  - Cardiovascular and metabolic disease
-  - Neuroscience and mental health
-- Computational Biology and Bioinformatics
-  - Metabolic modelling of heart cells
-  - Reconstructing regulatory networks in bacteria
-- Industrial Biotechnology
-- Microbiology
-- Pharmaceutical Sciences
-- Pharmacoepidemiology and Health Care
+-   Cellular Basis of Disease
+    -   Cancer
+    -   Inflammatory disease
+    -   Cardiovascular and metabolic disease
+    -   Neuroscience and mental health
+-   Computational Biology and Bioinformatics
+    -   Metabolic modelling of heart cells
+    -   Reconstructing regulatory networks in bacteria
+-   Industrial Biotechnology
+-   Microbiology
+-   Pharmaceutical Sciences
+-   Pharmacoepidemiology and Health Care
 
 ## Do I have to use the SIPBS matching scheme?
 
