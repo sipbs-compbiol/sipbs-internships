@@ -19,7 +19,7 @@ html:
   anchor-sections: true
 ---
 
-This page aims to describe what an internship and how it might be useful for your future career and other ambitions.
+This page aims to describe what an internship, how it might be useful for your future career and other ambitions, and to give answers to some other related questions.
 
 ## What is an internship?
 
@@ -58,6 +58,7 @@ Please take a look at the [Previous Projects](./previous_projects.qmd) page to s
 - Industrial Biotechnology
 - Microbiology
 - Pharmaceutical Sciences
+- Pharmacoepidemiology and Health Care
 
 ## Do I have to use the SIPBS matching scheme?
 
