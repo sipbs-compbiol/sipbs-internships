@@ -1,38 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "previous_projects.html",
+    "href": "previous_projects.html",
+    "title": "Previous Projects",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "SIPBS Summer Internships and Internship Matching",
-    "section": "",
-    "text": "Welcome to the SIPBS Summer Internships and Internship Matching pages for the Strathclyde Institute of Pharmacy and Biomedical Sciences!"
-  },
-  {
-    "objectID": "index.html#what-is-this-site-for",
-    "href": "index.html#what-is-this-site-for",
-    "title": "SIPBS Summer Internships and Internship Matching",
-    "section": "What is this site for?",
-    "text": "What is this site for?\nThese pages describe the SIPBS summer internship matching process and provide supporting information about this activity, including a list of potential internship opportunities"
-  },
-  {
-    "objectID": "index.html#getting-started",
-    "href": "index.html#getting-started",
-    "title": "SIPBS Summer Internships and Internship Matching",
-    "section": "Getting started",
-    "text": "Getting started\nWe suggest that you start by looking over the description of the Matching process, Current Projects and External Funding under General Information. After that, please take a look at the Slides and complete the form if you wish to be considered for the matching process."
-  },
-  {
-    "objectID": "index.html#acknowledgements",
-    "href": "index.html#acknowledgements",
-    "title": "SIPBS Summer Internships and Internship Matching",
-    "section": "Acknowledgements",
-    "text": "Acknowledgements\nThese pages were developed in 2023, and are currently maintained by, Leighton Pritchard.\nThese course materials are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Linked and embedded materials are governed by their own licenses. I assume that all external materials used or embedded here are covered under the educational fair use policy. If this is not the case and any material displayed here violates copyright, please let me know and I will remove it."
+    "text": "Projects: Summer 2024\n\n\n\n\nProjects offered for SIPBS Internships, starting Summer 2024.\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nProjects: Summer 2023\n\n\n\n\nProjects offered for SIPBS Internships, starting Summer 2023.\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nProjects: Summer 2022\n\n\n\n\nProjects offered for SIPBS Internships, starting Summer 2022.\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nProjects: Summer 2021\n\n\n\n\nProjects offered for SIPBS Internships, starting Summer 2021.\n\n\n\n\n \n\n\n\n\nNo matching items"
   },
   {
     "objectID": "external_funding.html",
@@ -70,52 +42,227 @@
     "text": "4 Other Resources\n\nInternships listed at the British Neuroscience Association\nInternships listed at the Royal Society of Biology"
   },
   {
-    "objectID": "previous_projects.html",
-    "href": "previous_projects.html",
-    "title": "Previous Projects",
+    "objectID": "matching.html",
+    "href": "matching.html",
+    "title": "SIPBS Internship Matching",
     "section": "",
-    "text": "The table below lists PIs and the projects that were offered for Summer 2023.\n\n\n\n\n\n\n\n\nPI\nTopics\nProject Title\n\n\n\n\nDr T Bushell  \nastrocytes, protease-activated receptor-2 (PAR2), inflammation\nCytokine release from cultured human astrocytes\n\n\nDr K Duncan  \n\nTaxonomic identification of marine Actinomycetes\n\n\nDr A Kurdi  \n\nImpact of covid on the prescribing trend of antidepressants in the U.K.\n\n\nProf M Maclean  \nEstrogen, Human adipose cells, QRTPCR, Aromatise, CYP1B1, Serotonin, Endothelin, Cell culture\nThe effect of serotonin and endothelin on estrogen synthesis\n\n\nProf G McConnell  \n\nCharacterising magnetic nanoparticles for biofilm remediation\n\n\nDr F Murphy \n\nhazard assessment of nanomaterials, in vitro alternatives, 3D multicell models of lung\n\n\nDr F Murphy \n\nhazard assessment of nanomaterials, in vitro alternatives, 3D multicell models of lung\n\n\nDr K Neves  \nanti-cancer drugs, hypertension, vascular biology\nAssessing the vascular effects of combinational anti-cancer therapy\n\n\nDr Z Rattray  \nNanotechnology; Analysis; Bioanalysis\nNanotechnology-based formulations\n\n\nDr Z Rattray  \nClinical datasets; data analysis; breast cancer\nUnderstudied mutations in breast cancer"
+    "text": "This page describes the process we use for matching students with SIPBS supervisors and projects for summer internships, what happens after matching, and when."
   },
   {
-    "objectID": "previous_projects.html#summer-2023",
-    "href": "previous_projects.html#summer-2023",
-    "title": "Previous Projects",
+    "objectID": "matching.html#introductory-lecture",
+    "href": "matching.html#introductory-lecture",
+    "title": "SIPBS Internship Matching",
+    "section": "1 Introductory Lecture",
+    "text": "1 Introductory Lecture\nAs part of the BM327 Being a Biomolecular Scientist module (MyPlace link) we introduce the SIPBS internship matching process at an in-person session.\n\n\n\n\n\n\nNote\n\n\n\nIn AY2023-24 the introductory session will take place on Friay 20th October 2023, in GH514."
+  },
+  {
+    "objectID": "matching.html#project-list-and-application-form",
+    "href": "matching.html#project-list-and-application-form",
+    "title": "SIPBS Internship Matching",
+    "section": "2 Project List and Application Form",
+    "text": "2 Project List and Application Form\nEarly in the academic year, scientists in SIPBS are asked if they would like to offer projects or placements in their groups for summer in the following year. These projects are collated on the Current Projects page.\nAfter the introductory session, you will be invited to select up to three PIs, projects, or topics from this Current Projects list and to complete an Application Form for matching. This form will be made available after the session.\n\n\n\n\n\n\nWarning\n\n\n\nIn AY2023-24 the deadline for submitting the application form will be Monday 30th October 2023.\nForms should be emailed to philip.brown@strath.ac.uk"
+  },
+  {
+    "objectID": "matching.html#student-matching-and-project-allocation",
+    "href": "matching.html#student-matching-and-project-allocation",
+    "title": "SIPBS Internship Matching",
+    "section": "3 Student Matching and Project Allocation",
+    "text": "3 Student Matching and Project Allocation\nWe operate a ranking process for applications. Applicants are ranked in order by second-year credit-weighted average (%CMA). The highest-ranked students, usually about 8-10, are allocated to projects and supervisors on the basis of student preference.\n\n\n\n\n\n\nNote\n\n\n\nOther criteria are applied for third-year direct entrants. A number of places are reserved to accommodate these students.\n\n\n\n\n\n\n\n\nWarning\n\n\n\nApplicants may be excluded from consideration on the basis of January examination results (e.g. a failing mark).\n\n\nIn AY2023-24, we expect matching of students to supervisors and projects to be complete by December 2023."
+  },
+  {
+    "objectID": "matching.html#student-supervisor-meeting",
+    "href": "matching.html#student-supervisor-meeting",
+    "title": "SIPBS Internship Matching",
+    "section": "4 Student-Supervisor Meeting",
+    "text": "4 Student-Supervisor Meeting\nIn order to be in time for internship and placement funding opportunity deadlines, we ask students and supervisors to meet early in the new year to discuss the project and plan out how to seek funding. In AY2023-24, we expect these meetings to take place in January 2024.\n\n\n\n\n\n\nImportant\n\n\n\nArranging this meeting is the responsibility of the student and the supervisor. Successful applicants should be sure to contact their supervisor as early as practicable."
+  },
+  {
+    "objectID": "matching.html#funding-applications",
+    "href": "matching.html#funding-applications",
+    "title": "SIPBS Internship Matching",
+    "section": "5 Funding Applications",
+    "text": "5 Funding Applications\nThere are several opportunities available for internship funding, and their deadlines for application typically fall in Semester 2. Please be sure to check the details of individual funding schemes for deadlines and any other requirements.\n\n\n\n\n\n\nImportant\n\n\n\nFunding applications are the responsibility of the student and the supervisor."
+  },
+  {
+    "objectID": "matching.html#project-start-dates",
+    "href": "matching.html#project-start-dates",
+    "title": "SIPBS Internship Matching",
+    "section": "6 Project Start Dates",
+    "text": "6 Project Start Dates\nSummer placement projects typically begin after the Formal Assessment Period (i.e. Summer Exams), but timing is flexible and to be agreed between supervisor and student.\n\n\n\n\n\n\nImportant\n\n\n\nFunding timings should be agreed between the student and the supervisor."
+  },
+  {
+    "objectID": "projects/2021-22.html",
+    "href": "projects/2021-22.html",
+    "title": "Projects: Summer 2022",
     "section": "",
-    "text": "The table below lists PIs and the projects that were offered for Summer 2023.\n\n\n\n\n\n\n\n\nPI\nTopics\nProject Title\n\n\n\n\nDr T Bushell  \nastrocytes, protease-activated receptor-2 (PAR2), inflammation\nCytokine release from cultured human astrocytes\n\n\nDr K Duncan  \n\nTaxonomic identification of marine Actinomycetes\n\n\nDr A Kurdi  \n\nImpact of covid on the prescribing trend of antidepressants in the U.K.\n\n\nProf M Maclean  \nEstrogen, Human adipose cells, QRTPCR, Aromatise, CYP1B1, Serotonin, Endothelin, Cell culture\nThe effect of serotonin and endothelin on estrogen synthesis\n\n\nProf G McConnell  \n\nCharacterising magnetic nanoparticles for biofilm remediation\n\n\nDr F Murphy \n\nhazard assessment of nanomaterials, in vitro alternatives, 3D multicell models of lung\n\n\nDr F Murphy \n\nhazard assessment of nanomaterials, in vitro alternatives, 3D multicell models of lung\n\n\nDr K Neves  \nanti-cancer drugs, hypertension, vascular biology\nAssessing the vascular effects of combinational anti-cancer therapy\n\n\nDr Z Rattray  \nNanotechnology; Analysis; Bioanalysis\nNanotechnology-based formulations\n\n\nDr Z Rattray  \nClinical datasets; data analysis; breast cancer\nUnderstudied mutations in breast cancer"
+    "text": "The table below lists PIs who indicated they would welcome SIPBS internship applicants for project work in Summer 2022.\n\n\n\n\n\n\n\n\nPI\nTopics\nProject Title\n\n\n\n\nProf G Gould  \nfat cell; lipid droplet; ageing; diabetes\nCharacterising ageing fat cells\n\n\nProf W Harnett  \n\nAntiinflammatory properties and therapeutic potential of the secreted parasitic worm product ES-62\n\n\nDr A Kurdi  \nprescriptions; pharmacy; data analysis\nImpact of COVID-19 pandemic on the prescribing pattern of mental health medications in the UK: a cross-national comparison study\n\n\nProf G McConnell  \nmicroscopy;image analysis; image processing\nTBA\n\n\nDr L Pritchard  \ncomputational biology; bioinformatics; (i) transcriptional regulation, microbiology, microbial genomics; (ii) whole-genome metabolic modelling; metabolism; cardiomyocytes\nTBA: up to 2 students\n\n\nDr Z & Dr N Rattray  \nCancer; Bioinformatics; Data Analysis\nTBA: can take 2-4 students\n\n\nDr N Tucker  \nMicrobiology, Pseudomonas aeruginosa, transcriptional regulation, nitrogen metabolism, infection\nComparing nitrosative stress responses between Pseudomonas aeruginosa strains PA01 and the Liverpool Epidemic Strain"
   },
   {
-    "objectID": "previous_projects.html#summer-2022",
-    "href": "previous_projects.html#summer-2022",
-    "title": "Previous Projects",
-    "section": "2 Summer 2022",
-    "text": "2 Summer 2022\nThe table below lists PIs and the projects that were offered for Summer 2022.\n\n\n\n\n\n\n\n\nPI\nTopics\nProject Title\n\n\n\n\nProf G Gould  \nfat cell; lipid droplet; ageing; diabetes\nCharacterising ageing fat cells\n\n\nProf W Harnett  \n\nAntiinflammatory properties and therapeutic potential of the secreted parasitic worm product ES-62\n\n\nDr A Kurdi  \nprescriptions; pharmacy; data analysis\nImpact of COVID-19 pandemic on the prescribing pattern of mental health medications in the UK: a cross-national comparison study\n\n\nProf G McConnell  \nmicroscopy;image analysis; image processing\nTBA\n\n\nDr L Pritchard  \ncomputational biology; bioinformatics; (i) transcriptional regulation, microbiology, microbial genomics; (ii) whole-genome metabolic modelling; metabolism; cardiomyocytes\nTBA: up to 2 students\n\n\nDr Z & Dr N Rattray  \nCancer; Bioinformatics; Data Analysis\nTBA: can take 2-4 students\n\n\nDr N Tucker  \nMicrobiology, Pseudomonas aeruginosa, transcriptional regulation, nitrogen metabolism, infection\nComparing nitrosative stress responses between Pseudomonas aeruginosa strains PA01 and the Liverpool Epidemic Strain"
-  },
-  {
-    "objectID": "previous_projects.html#summer-2021",
-    "href": "previous_projects.html#summer-2021",
-    "title": "Previous Projects",
-    "section": "3 Summer 2021",
-    "text": "3 Summer 2021\nThe table below lists PIs and the projects that were offered for Summer 2021.\n\n\n\n\n\n\n\n\nPI\nTopics\nProject Title\n\n\n\n\nDr H Batchelor  \npaediatric; formulation; biopharmaceutics\nTBA\n\n\nDr KC Carter  \nleishmaniasis; vaccines; recombinant DNA; ELISA\nDevelopment of a vaccine for treatment of leishmaniasis\n\n\nDr L Chamberlain  \ndatabase analysis; cancer; S-acylation\nTBA\n\n\nDr K Duncan  \nmarine biodiscovery; actinomycetes; microbial metabolomics, natural products\nTBA\n\n\nDr A Kurdi  \nprescriptions; pharmacy; data analysis\nTop ten conditions in terms of prescription items and expenditure across the UK: what is the trend over the last decade?\n\n\nDr IDH Oswald  \nmaterials & manufacture; co-crystals; polymorphism; spectroscopy\nMulticomponent materials under extreme conditions\n\n\nDr L Pritchard  \nmicrobial genomics; computational biology; bioinformatics; metabolic modelling\nTBA"
-  },
-  {
-    "objectID": "current_projects.html",
-    "href": "current_projects.html",
-    "title": "Current Projects",
+    "objectID": "projects/2021-22.html#offered-project-summaries",
+    "href": "projects/2021-22.html#offered-project-summaries",
+    "title": "Projects: Summer 2022",
     "section": "",
-    "text": "The table below lists PIs who have actively indicated they would welcome SIPBS internship applicants for project work in Summer 2024.\n\n\n\n\n\n\nImportant\n\n\n\nAll project titles, and their availabilities, are provisional.\n\n\n\n\n\n\n\n\nImportant\n\n\n\nSome projects may only go ahead if suitable funding is obtained, or other conditions are met.\n\n\n\n\n\n\n\n\n\n\nPI\nTopics\nProject Title\n\n\n\n\nDr T Bushell  \nastrocytes, protease-activated receptor-2 (PAR2), inflammation\nCytokine release from cultured human astrocytes"
+    "text": "The table below lists PIs who indicated they would welcome SIPBS internship applicants for project work in Summer 2022.\n\n\n\n\n\n\n\n\nPI\nTopics\nProject Title\n\n\n\n\nProf G Gould  \nfat cell; lipid droplet; ageing; diabetes\nCharacterising ageing fat cells\n\n\nProf W Harnett  \n\nAntiinflammatory properties and therapeutic potential of the secreted parasitic worm product ES-62\n\n\nDr A Kurdi  \nprescriptions; pharmacy; data analysis\nImpact of COVID-19 pandemic on the prescribing pattern of mental health medications in the UK: a cross-national comparison study\n\n\nProf G McConnell  \nmicroscopy;image analysis; image processing\nTBA\n\n\nDr L Pritchard  \ncomputational biology; bioinformatics; (i) transcriptional regulation, microbiology, microbial genomics; (ii) whole-genome metabolic modelling; metabolism; cardiomyocytes\nTBA: up to 2 students\n\n\nDr Z & Dr N Rattray  \nCancer; Bioinformatics; Data Analysis\nTBA: can take 2-4 students\n\n\nDr N Tucker  \nMicrobiology, Pseudomonas aeruginosa, transcriptional regulation, nitrogen metabolism, infection\nComparing nitrosative stress responses between Pseudomonas aeruginosa strains PA01 and the Liverpool Epidemic Strain"
   },
   {
-    "objectID": "current_projects.html#offered-project-summaries",
-    "href": "current_projects.html#offered-project-summaries",
-    "title": "Current Projects",
-    "section": "",
-    "text": "The table below lists PIs who have actively indicated they would welcome SIPBS internship applicants for project work in Summer 2024.\n\n\n\n\n\n\nImportant\n\n\n\nAll project titles, and their availabilities, are provisional.\n\n\n\n\n\n\n\n\nImportant\n\n\n\nSome projects may only go ahead if suitable funding is obtained, or other conditions are met.\n\n\n\n\n\n\n\n\n\n\nPI\nTopics\nProject Title\n\n\n\n\nDr T Bushell  \nastrocytes, protease-activated receptor-2 (PAR2), inflammation\nCytokine release from cultured human astrocytes"
-  },
-  {
-    "objectID": "current_projects.html#project-descriptions",
-    "href": "current_projects.html#project-descriptions",
-    "title": "Current Projects",
+    "objectID": "projects/2021-22.html#project-descriptions",
+    "href": "projects/2021-22.html#project-descriptions",
+    "title": "Projects: Summer 2022",
     "section": "2 Project Descriptions",
-    "text": "2 Project Descriptions\n\n2.1 Dr T Bushell: Cytokine release from cultured human astrocytes\nKeywords: astrocytes, protease-activated receptor-2 (PAR2), inflammation\nWe have shown that PAR2 activation may contribute to depression-like behaviour through cytokine release from activated astrocytes. In this study, we would examine the consequence of PAR2 activation and inhibition on cytokine release from cultured human astrocytes."
+    "text": "2 Project Descriptions"
+  },
+  {
+    "objectID": "projects/2022-23.html",
+    "href": "projects/2022-23.html",
+    "title": "Projects: Summer 2023",
+    "section": "",
+    "text": "The table below lists PIs who indicated they would welcome SIPBS internship applicants for project work in Summer 2022.\n\n\n\n\n\n\n\n\nPI\nTopics\nProject Title\n\n\n\n\nDr T Bushell  \nastrocytes, protease-activated receptor-2 (PAR2), inflammation\nCytokine release from cultured human astrocytes\n\n\nDr K Duncan  \n\nTaxonomic identification of marine Actinomycetes\n\n\nDr A Kurdi  \n\nImpact of covid on the prescribing trend of antidepressants in the U.K.\n\n\nProf M Maclean  \nEstrogen, Human adipose cells, QRTPCR, Aromatise, CYP1B1, Serotonin, Endothelin, Cell culture\nThe effect of serotonin and endothelin on estrogen synthesis\n\n\nProf G McConnell  \n\nCharacterising magnetic nanoparticles for biofilm remediation\n\n\nDr F Murphy \n\nhazard assessment of nanomaterials, in vitro alternatives, 3D multicell models of lung\n\n\nDr F Murphy \n\nhazard assessment of nanomaterials, in vitro alternatives, 3D multicell models of lung\n\n\nDr K Neves  \nanti-cancer drugs, hypertension, vascular biology\nAssessing the vascular effects of combinational anti-cancer therapy\n\n\nDr Z Rattray  \nNanotechnology; Analysis; Bioanalysis\nNanotechnology-based formulations\n\n\nDr Z Rattray  \nClinical datasets; data analysis; breast cancer\nUnderstudied mutations in breast cancer"
+  },
+  {
+    "objectID": "projects/2022-23.html#offered-project-summaries",
+    "href": "projects/2022-23.html#offered-project-summaries",
+    "title": "Projects: Summer 2023",
+    "section": "",
+    "text": "The table below lists PIs who indicated they would welcome SIPBS internship applicants for project work in Summer 2022.\n\n\n\n\n\n\n\n\nPI\nTopics\nProject Title\n\n\n\n\nDr T Bushell  \nastrocytes, protease-activated receptor-2 (PAR2), inflammation\nCytokine release from cultured human astrocytes\n\n\nDr K Duncan  \n\nTaxonomic identification of marine Actinomycetes\n\n\nDr A Kurdi  \n\nImpact of covid on the prescribing trend of antidepressants in the U.K.\n\n\nProf M Maclean  \nEstrogen, Human adipose cells, QRTPCR, Aromatise, CYP1B1, Serotonin, Endothelin, Cell culture\nThe effect of serotonin and endothelin on estrogen synthesis\n\n\nProf G McConnell  \n\nCharacterising magnetic nanoparticles for biofilm remediation\n\n\nDr F Murphy \n\nhazard assessment of nanomaterials, in vitro alternatives, 3D multicell models of lung\n\n\nDr F Murphy \n\nhazard assessment of nanomaterials, in vitro alternatives, 3D multicell models of lung\n\n\nDr K Neves  \nanti-cancer drugs, hypertension, vascular biology\nAssessing the vascular effects of combinational anti-cancer therapy\n\n\nDr Z Rattray  \nNanotechnology; Analysis; Bioanalysis\nNanotechnology-based formulations\n\n\nDr Z Rattray  \nClinical datasets; data analysis; breast cancer\nUnderstudied mutations in breast cancer"
+  },
+  {
+    "objectID": "projects/2022-23.html#project-descriptions",
+    "href": "projects/2022-23.html#project-descriptions",
+    "title": "Projects: Summer 2023",
+    "section": "2 Project Descriptions",
+    "text": "2 Project Descriptions"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "SIPBS Summer Internships and Internship Matching",
+    "section": "",
+    "text": "Welcome to the SIPBS Summer Internships and Internship Matching pages for the Strathclyde Institute of Pharmacy and Biomedical Sciences!"
+  },
+  {
+    "objectID": "index.html#what-is-this-site-for",
+    "href": "index.html#what-is-this-site-for",
+    "title": "SIPBS Summer Internships and Internship Matching",
+    "section": "What is this site for?",
+    "text": "What is this site for?\nThese pages describe the SIPBS summer internship matching process and provide supporting information about this activity, including a list of potential internship opportunities"
+  },
+  {
+    "objectID": "index.html#getting-started",
+    "href": "index.html#getting-started",
+    "title": "SIPBS Summer Internships and Internship Matching",
+    "section": "Getting started",
+    "text": "Getting started\nWe suggest that you start by looking over the description of the Matching process, Current Projects and External Funding under General Information. After that, please take a look at the Slides and complete the form if you wish to be considered for the matching process."
+  },
+  {
+    "objectID": "index.html#acknowledgements",
+    "href": "index.html#acknowledgements",
+    "title": "SIPBS Summer Internships and Internship Matching",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nThese pages were originally developed in 2023, and are currently maintained by, Leighton Pritchard.\nThese materials are © University of Strathclyde, and licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Linked and embedded materials are governed by their own licenses. I assume that all external materials used or embedded here are covered under the educational fair use policy. If this is not the case and any material displayed here violates copyright, please let me know and I will remove it."
+  },
+  {
+    "objectID": "projects/2023-24.html",
+    "href": "projects/2023-24.html",
+    "title": "Projects: Summer 2024",
+    "section": "",
+    "text": "The table below lists PIs who have actively indicated they would welcome SIPBS internship applicants for project work in Summer 2024.\n\n\n\n\n\n\nImportant\n\n\n\nAll project titles, and their availabilities, are provisional.\n\n\n\n\n\n\n\n\nWarning\n\n\n\nSome projects may only go ahead if suitable funding is obtained, or other conditions are met.\n\n\n\n\n\n\n\n\n\n\nPI\nTopics\nProject Title\n\n\n\n\nDr F Murphy \nnanotoxicology, in vitro alternative, sustainable cell culture\n‘Humanising’ cell culture conditions for in vitro hazard assessment of nanomaterials\n\n\nDr K Neves  \nvascular biology, obesity, pulmonary hypertension\nPeripheral vascular effects of pulmonary hypertension (PAH) and obesity"
+  },
+  {
+    "objectID": "projects/2023-24.html#offered-project-summaries",
+    "href": "projects/2023-24.html#offered-project-summaries",
+    "title": "Projects: Summer 2024",
+    "section": "",
+    "text": "The table below lists PIs who have actively indicated they would welcome SIPBS internship applicants for project work in Summer 2024.\n\n\n\n\n\n\nImportant\n\n\n\nAll project titles, and their availabilities, are provisional.\n\n\n\n\n\n\n\n\nWarning\n\n\n\nSome projects may only go ahead if suitable funding is obtained, or other conditions are met.\n\n\n\n\n\n\n\n\n\n\nPI\nTopics\nProject Title\n\n\n\n\nDr F Murphy \nnanotoxicology, in vitro alternative, sustainable cell culture\n‘Humanising’ cell culture conditions for in vitro hazard assessment of nanomaterials\n\n\nDr K Neves  \nvascular biology, obesity, pulmonary hypertension\nPeripheral vascular effects of pulmonary hypertension (PAH) and obesity"
+  },
+  {
+    "objectID": "projects/2023-24.html#project-descriptions",
+    "href": "projects/2023-24.html#project-descriptions",
+    "title": "Projects: Summer 2024",
+    "section": "2 Project Descriptions",
+    "text": "2 Project Descriptions\n\n2.1 Dr F. Murphy: ‘Humanising’ cell culture conditions for in vitro hazard assessment of nanomaterials\nKeywords: nanotoxicology, in vitro alternative, sustainable cell culture\n\n2.1.1 Brief overview\nThis project will involve assessing the impact of replacing animal-derived products (e.g. FBS) with human alternatives in the culture of lung cells to promote more ethical and sustainable toxicity testing of nanomaterials. Cell growth rates, differentiation state and sensitivity to pro-inflammatory agents and exposure to nanomaterials will be compared between cells cultured in media containing common animal-derived supplements or human-derived/synthetic alternatives.\n\n\n2.1.2 Background\nThe vast array of nanomaterials (NMs) under development raises ethical concerns over the reliance and extent of animal usage in the hazard assessment of substances. Burden et al. (2017) promoted consideration of the 3Rs (reduce, refine, replace) concept as a framework when developing strategies in nanosafety assessment (Burden et al. 2017). This approach requires the use of New Approach Methods (NAM) and novel in vitro models to generate the appropriate toxicity data for the hazard assessment of new materials.\nMany of the methods in current use are reliant on the use of animal-derived materials and reagents, in particular cell-based assays which grow cells in media supplemented with animal serum and the use of monoclonal animals raised in rodents and rabbits. The information gathered by in vitro testing therefore cannot be considered animal-free unless adaptions are made to standard in vitro protocols to replace all animal-derived reagents.\nFoetal bovine serum (FBS) is used by default as an additive for cell, organ and tissue culture media in biomedical research and testing to enhance cell growth and proliferation. Serum serves as a source of amino acids, proteins, vitamins, carbohydrates, lipids, hormones, growth factors, inorganic salts, trace elements, and other compounds. It also improves the pH-buffering capacity of the medium and helps to reduce shear stress (i.e., physical damage that is caused by pipette manipulation and stirring). However, the production is unregulated and often associated with ethically and legally questionable practices and animal suffering (van der Valk et al. 2004).\nFurthermore using FBS in cell culture presents a number of significant scientific challenges; the exact composition of FBS is unknown, there is a risk of contamination with pathogens, and reproducibility of scientific experiments suffers from inconsistencies between FBS batches (Liu et al. 2023). Omitting ill-defined animal-derived ingredients like FBS is recommended in the Guidance Document on Good In Vitro Method Practices (GIVIMP), a key tool for ensuring reproducible study data generation (OECD 2018).\nHuman platelets contain abundant cytokines and growth factors offering the potential to replace FBS as universal growth supplement for cell culture (Burden et al. 2017).\n\n\n2.1.3 Objectives:\n\nAssess the impact of replacing FBS in human immune cell lines, THP-1 with HPL.\n\n\n\nDetermine growth rate during cell-line maintenance.\nAssess impact on differentiation from monocyte to macrophage phenotype.\n\n\n\nThe aim of this project is to challenge the status quo methods used as standard in labs, often without consideration of the scientific or ethical implications. Therefore, a strategy to disseminate study aims and results will be developed utilising social media platforms and generation of explainer videos targeted at academics, students and the general public to promote the need to replace animal-derived products in scientific studies.\n\nThis project will therefore build the student’s scientific skills in experimental design, lab techniques, analysis of data and dissemination of results.\n\n\n\n2.2 Dr K. Neves: Peripheral vascular effects of pulmonary hypertension (PAH) and obesity.\nKeywords: vascular biology, obesity, pulmonary hypertension\n\n2.2.1 Brief overview\nOur aim is to investigate peripheral vascular effects of pulmonary hypertension (PAH) and obesity. To do that, aorta and mesenteric arteries isolated from rats exposed to hypoxia (PAH animal model) and treated for 10 weeks with chow or high fat diet will be investigated. Histological visualization and remodelling of aorta and mesenteric arteries will be assessed by haematoxylin and eosin (H&E) staining. Fibrosis and arterial stiffness will be assessed by picrosirius red and elastin staining, respectively."
+  },
+  {
+    "objectID": "projects/2023-24.html#references",
+    "href": "projects/2023-24.html#references",
+    "title": "Projects: Summer 2024",
+    "section": "3 References",
+    "text": "3 References\n\n\nBurden, Natalie, Karin Aschberger, Qasim Chaudhry, Martin J. D. Clift, Shareen H. Doak, Paul Fowler, Helinor Johnston, Robert Landsiedel, Joanna Rowland, and Vicki Stone. 2017. “The 3Rs as a Framework to Support a 21st Century Approach for Nanosafety Assessment.” Nano Today 12: 10–13. https://doi.org/10.1016/j.nantod.2016.06.007.\n\n\nLiu, Shuai, Wei Yang, Yunlei Li, and Changging Sun. 2023. “Fetal Bovine Serum, an Important Factor Affecting the Reproducibility of Cell Experiments.” Sci Rep 13: 1942. https://doi.org/10.1038/s41598-023-29060-7.\n\n\nOECD. 2018. Guidance Document on Good in Vitro Method Practices (GIVIMP). https://doi.org/https://doi.org/https://doi.org/10.1787/9789264304796-en.\n\n\nvan der Valk, J., D. Mellor, R. Brands, R. Fischer, F. Gruber, G. Gstraunthaler, L. Hellebrekers, et al. 2004. “The Humane Collection of Fetal Bovine Serum and Possibilities for Serum-Free Cell and Tissue Culture.” Toxicology in Vitro 18 (1): 1–12. https://doi.org/https://doi.org/10.1016/j.tiv.2003.08.009."
+  },
+  {
+    "objectID": "projects/2020-21.html",
+    "href": "projects/2020-21.html",
+    "title": "Projects: Summer 2021",
+    "section": "",
+    "text": "The table below lists PIs who indicated they would welcome SIPBS internship applicants for project work in Summer 2021.\n\n\n\n\n\n\n\n\nPI\nTopics\nProject Title\n\n\n\n\nDr H Batchelor  \npaediatric; formulation; biopharmaceutics\nTBA\n\n\nDr KC Carter  \nleishmaniasis; vaccines; recombinant DNA; ELISA\nDevelopment of a vaccine for treatment of leishmaniasis\n\n\nDr L Chamberlain  \ndatabase analysis; cancer; S-acylation\nTBA\n\n\nDr K Duncan  \nmarine biodiscovery; actinomycetes; microbial metabolomics, natural products\nTBA\n\n\nDr A Kurdi  \nprescriptions; pharmacy; data analysis\nTop ten conditions in terms of prescription items and expenditure across the UK: what is the trend over the last decade?\n\n\nDr IDH Oswald  \nmaterials & manufacture; co-crystals; polymorphism; spectroscopy\nMulticomponent materials under extreme conditions\n\n\nDr L Pritchard  \nmicrobial genomics; computational biology; bioinformatics; metabolic modelling\nTBA"
+  },
+  {
+    "objectID": "projects/2020-21.html#offered-project-summaries",
+    "href": "projects/2020-21.html#offered-project-summaries",
+    "title": "Projects: Summer 2021",
+    "section": "",
+    "text": "The table below lists PIs who indicated they would welcome SIPBS internship applicants for project work in Summer 2021.\n\n\n\n\n\n\n\n\nPI\nTopics\nProject Title\n\n\n\n\nDr H Batchelor  \npaediatric; formulation; biopharmaceutics\nTBA\n\n\nDr KC Carter  \nleishmaniasis; vaccines; recombinant DNA; ELISA\nDevelopment of a vaccine for treatment of leishmaniasis\n\n\nDr L Chamberlain  \ndatabase analysis; cancer; S-acylation\nTBA\n\n\nDr K Duncan  \nmarine biodiscovery; actinomycetes; microbial metabolomics, natural products\nTBA\n\n\nDr A Kurdi  \nprescriptions; pharmacy; data analysis\nTop ten conditions in terms of prescription items and expenditure across the UK: what is the trend over the last decade?\n\n\nDr IDH Oswald  \nmaterials & manufacture; co-crystals; polymorphism; spectroscopy\nMulticomponent materials under extreme conditions\n\n\nDr L Pritchard  \nmicrobial genomics; computational biology; bioinformatics; metabolic modelling\nTBA"
+  },
+  {
+    "objectID": "projects/2020-21.html#project-descriptions",
+    "href": "projects/2020-21.html#project-descriptions",
+    "title": "Projects: Summer 2021",
+    "section": "2 Project Descriptions",
+    "text": "2 Project Descriptions"
+  },
+  {
+    "objectID": "internships.html",
+    "href": "internships.html",
+    "title": "What is an Internship?",
+    "section": "",
+    "text": "This page aims to describe what an internship, how it might be useful for your future career and other ambitions, and to give answers to some other related questions."
+  },
+  {
+    "objectID": "internships.html#what-is-an-internship",
+    "href": "internships.html#what-is-an-internship",
+    "title": "What is an Internship?",
+    "section": "1 What is an internship?",
+    "text": "1 What is an internship?\nAn internship is a period of professional work experience. In the case of the SIPBS matching scheme, this is typically an 8-10 week summer placement in a working research laboratory within the department."
+  },
+  {
+    "objectID": "internships.html#will-i-be-paid",
+    "href": "internships.html#will-i-be-paid",
+    "title": "What is an Internship?",
+    "section": "2 Will I be paid?",
+    "text": "2 Will I be paid?\nInternships may be paid, unpaid, or partially-paid (e.g. the student may receive a stipend for the period, rather than an hourly rate).\nThe SIPBS matching scheme provides no funds either for the student, or in support of the project. Supervisors who offer projects may have financial resources that could be used to fund the project or pay the intern. Alternatively the student or the supervisor (or both together, depending on the scheme) may apply for funding from a third party, such as the university, a charity, or professional society, to support the placement."
+  },
+  {
+    "objectID": "internships.html#what-will-i-get-from-the-experience",
+    "href": "internships.html#what-will-i-get-from-the-experience",
+    "title": "What is an Internship?",
+    "section": "3 What will I get from the experience?",
+    "text": "3 What will I get from the experience?\nBy engaging in a practical research project, you will obtain skills, knowledge, and experience that cannot be obtained in other ways. You will be able to establish professional connections and begin to network in the field, as well as contributing to finding answers to real, cutting-edge research questions.\nIf you think you might be interested in a research career, then a placement is one way to find out if that career path is something you might like.\nWhere placements, or their funding, are competitive, there may be an element of prestige to winning that funding which helps make your future CV stand out against other applicants’."
+  },
+  {
+    "objectID": "internships.html#what-kinds-of-project-might-i-be-able-to-do",
+    "href": "internships.html#what-kinds-of-project-might-i-be-able-to-do",
+    "title": "What is an Internship?",
+    "section": "4 What kinds of project might I be able to do?",
+    "text": "4 What kinds of project might I be able to do?\n\n\n\n\n\n\nNote\n\n\n\nThe range of projects and supervisors varies year-by-year, and you are always free to approach supervisors at other universities or in industry to find a project that suits you.\n\n\nPlease take a look at the Previous Projects page to see what projects have been on offer previously. General areas in which projects have been offered within SIPBS include:\n\nCellular Basis of Disease\n\nCancer\nInflammatory disease\nCardiovascular and metabolic disease\nNeuroscience and mental health\n\nComputational Biology and Bioinformatics\n\nMetabolic modelling of heart cells\nReconstructing regulatory networks in bacteria\n\nIndustrial Biotechnology\nMicrobiology\nPharmaceutical Sciences\nPharmacoepidemiology and Health Care"
+  },
+  {
+    "objectID": "internships.html#do-i-have-to-use-the-sipbs-matching-scheme",
+    "href": "internships.html#do-i-have-to-use-the-sipbs-matching-scheme",
+    "title": "What is an Internship?",
+    "section": "5 Do I have to use the SIPBS matching scheme?",
+    "text": "5 Do I have to use the SIPBS matching scheme?\nNo. You are always free to obtain an internship independently of the SIPBS scheme.\nWe offer the scheme to simplify the process of matching interested students with supervisors who are thinking of offering projects. As there are usually fewer projects on offer than interested students, we need to manage this process. But if you are interested in working in a particular area, or with a particular group, there is no reason you should not approach potential supervisors directly, outwith this scheme."
+  },
+  {
+    "objectID": "slides.html",
+    "href": "slides.html",
+    "title": "Slides",
+    "section": "",
+    "text": "This page provides a link to download the SIPBS internship matching presentation slides for AY2023-24.\n\nDOWNLOAD"
+  },
+  {
+    "objectID": "forms.html",
+    "href": "forms.html",
+    "title": "Forms",
+    "section": "",
+    "text": "This page provides a link to download the SIPBS internship matching application form.\n\nDOWNLOAD"
   }
 ]
