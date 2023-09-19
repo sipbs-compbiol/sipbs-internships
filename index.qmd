@@ -17,6 +17,8 @@ about:
 
 Welcome to the SIPBS Summer Internships and Internship Matching pages for the Strathclyde Institute of Pharmacy and Biomedical Sciences!
 
+These pages should be read in conjunction with the official SIPBS Internship Materials available on the course [MyPlace page]({{< var myplace.link >}})
+
 ## What is this site for?
 
 These pages describe the SIPBS summer internship matching process and provide supporting information about this activity, including a list of potential internship opportunities
