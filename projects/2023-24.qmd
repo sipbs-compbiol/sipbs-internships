@@ -36,6 +36,7 @@ Some projects may only go ahead if suitable funding is obtained, or other condit
 
 | PI                                                                                                                                   | Topics                                                         | Project Title                                                                                         |
 |:----------------------|:------------------------|:------------------------|
+| Dr MA Feeney [{{< bi envelope >}}](morgan.feeney@strath.ac.uk) | Actinobacteria Streptomyces Antibiotic Discovery Endophytes  Symbiosis | Diversity of Lichen-Associated _Streptomyces_ |
 | Dr F Murphy [{{< bi envelope >}}](f.murphy@strath.ac.uk)                                                                             | nanotoxicology, in vitro alternative, sustainable cell culture | ['Humanising' cell culture conditions for in vitro hazard assessment of nanomaterials](#sec-murphy-1) |
 | Dr K Neves [{{< bi envelope >}}](karla.neves@strath.ac.uk) [{{< bi link >}}](https://pureportal.strath.ac.uk/en/persons/karla-neves) | vascular biology, obesity, pulmonary hypertension              | [Peripheral vascular effects of pulmonary hypertension (PAH) and obesity](#sec-neves-1)               |
 
