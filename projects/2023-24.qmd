@@ -36,10 +36,11 @@ Some projects may only go ahead if suitable funding is obtained, or other condit
 
 | PI                                                                                                                                   | Topics                                                         | Project Title                                                                                         |
 |:----------------------|:------------------------|:------------------------|
-| Dr MA Feeney [{{< bi envelope >}}](morgan.feeney@strath.ac.uk) | Actinobacteria, Streptomyces, Antibiotic, Discovery, Endophytes, Symbiosis | Diversity of Lichen-Associated _Streptomyces_ |
-| Dr F Murphy [{{< bi envelope >}}](f.murphy@strath.ac.uk)                                                                             | nanotoxicology, in vitro alternative, sustainable cell culture | ['Humanising' cell culture conditions for in vitro hazard assessment of nanomaterials](#sec-murphy-1) |
-| Dr K Neves [{{< bi envelope >}}](karla.neves@strath.ac.uk) [{{< bi link >}}](https://pureportal.strath.ac.uk/en/persons/karla-neves) | vascular biology, obesity, pulmonary hypertension              | [Peripheral vascular effects of pulmonary hypertension (PAH) and obesity](#sec-neves-1)               |
-| Dr Z Rattray [{{< bi envelope >}}](zahra.rattray@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/rattrayzahradr/) | | Preparation and analysis of nanoparticles |
+| Dr MA Feeney [{{< bi envelope >}}](mailto:morgan.feeney@strath.ac.uk) | Actinobacteria, Streptomyces, Antibiotic, Discovery, Endophytes, Symbiosis | Diversity of Lichen-Associated _Streptomyces_ |
+| Dr F Murphy [{{< bi envelope >}}](mailto:f.murphy@strath.ac.uk)                                                                             | nanotoxicology, in vitro alternative, sustainable cell culture | ['Humanising' cell culture conditions for in vitro hazard assessment of nanomaterials](#sec-murphy-1) |
+| Dr K Neves [{{< bi envelope >}}](mailto:karla.neves@strath.ac.uk) [{{< bi link >}}](https://pureportal.strath.ac.uk/en/persons/karla-neves) | vascular biology, obesity, pulmonary hypertension              | [Peripheral vascular effects of pulmonary hypertension (PAH) and obesity](#sec-neves-1)               |
+| Dr Z Rattray [{{< bi envelope >}}](mailto:zahra.rattray@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/rattrayzahradr/) | | Preparation and analysis of nanoparticles |
+| Dr N Weir [{{< bi envelope >}}](mailto:natalie.m.weir@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/weirnataliems/) | | Professionalism, professional identity, and community pharmacy culture: the context of substance dependency](#sec-weir-1) |
 
 ## Project Descriptions
 
@@ -87,6 +88,29 @@ Keywords: vascular biology, obesity, pulmonary hypertension
 #### Brief overview
 
 Our aim is to investigate peripheral vascular effects of pulmonary hypertension (PAH) and obesity. To do that, aorta and mesenteric arteries isolated from rats exposed to hypoxia (PAH animal model) and treated for 10 weeks with chow or high fat diet will be investigated. Histological visualization and remodelling of aorta and mesenteric arteries will be assessed by haematoxylin and eosin (H&E) staining. Fibrosis and arterial stiffness will be assessed by picrosirius red and elastin staining, respectively.
+
+### Dr N. Weir: Professionalism, professional identity, and community pharmacy culture: the context of substance dependency {#sec-weir-1}
+
+#### Project Team
+
+Natalie Weir, Emma Dunlop, Andrew Radley, Adrian MacKenzie 
+
+#### Project outline
+
+New [Medication Assisted Treatment (MAT) standards](https://www.gov.scot/publications/medication-assisted-treatment-mat-standards-scotland-access-choice-support/), alongside increasing acknowledgment of the importance of Trauma Informed Care (TIC) [@Chisholm-Burns2023-sl], will assist community pharmacy to better support people with substance dependency. Little is known about the culture and professionalism that exists within community pharmacy staff in Scotland relating to their role with people with substance dependency, although research indicates the pharmacy setting can be a stigmatising environment which may contribute to health inequalities [@Radley2017-nt]. Professional identity, and how it relates to the provision of patient-centred care, is an important consideration for the role of pharmacists whilst the scope of practice is expanding. Students, foundation pharmacists, and newly qualified community pharmacists will be forming their professional identify and can offer unique perspective on the culture and professionalism within this context. 
+
+#### Project aim
+
+To explore the perceptions of the professionalism within community pharmacy culture, in the context of people with substance dependency, through the lens of student and newly qualified pharmacists. 
+
+#### Methods
+
+The internship will follow on from work undertaken by six final year pharmacy students from Sept 2023 until Feb 2024, which will involve exploration of Professionalism (as a factor of how people ‘act’ and ‘think’) and Professional Identity (how they ‘feel’) [@Chadha2022-wp]. The internship may involve reviewing literature, undertaking thematic analysis of interview data, writing reports / publications, developing visual research outputs, and/or performing research interviews. You will have close supervision and support throughout. 
+
+#### Output
+
+The findings will offer insight into the existing professionalism and culture within Scottish community pharmacies and the extent to which the MAT standards and TIC principles are currently embedded in practice. Furthermore, the findings will indicate how early experiences in community pharmacy practice influence professional identity with scope to develop training interventions. The results will inform the development of a UK-wide questionnaire with larger cohorts to aid in the exploration and implementation of MAT and TIC principles.
+
 
 ## References
 
