@@ -19,7 +19,7 @@ website:
           href: matching.qmd
         - text: "Current Projects"
           href: projects/2023-24.qmd
-        - text: "External Funding Opporunities"
+        - text: "External Funding Opportunities"
           href: external_funding.qmd
       - text: "Materials"
         menu: 
