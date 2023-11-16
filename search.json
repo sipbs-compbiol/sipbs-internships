@@ -1,45 +1,66 @@
 [
   {
-    "objectID": "slides.html",
-    "href": "slides.html",
-    "title": "Slides",
+    "objectID": "internships.html",
+    "href": "internships.html",
+    "title": "What is an Internship?",
     "section": "",
-    "text": "This page provides a link to download the SIPBS internship matching presentation slides for AY2023-24.\n\nDOWNLOAD"
+    "text": "This page aims to describe what an internship, how it might be useful for your future career and other ambitions, and to give answers to some other related questions."
   },
   {
-    "objectID": "external_funding.html",
-    "href": "external_funding.html",
-    "title": "External Funding Opportunities",
+    "objectID": "internships.html#what-is-an-internship",
+    "href": "internships.html#what-is-an-internship",
+    "title": "What is an Internship?",
+    "section": "1 What is an internship?",
+    "text": "1 What is an internship?\nAn internship is a period of professional work experience. In the case of the SIPBS matching scheme, this is typically an 8-10 week summer placement in a working research laboratory within the department."
+  },
+  {
+    "objectID": "internships.html#will-i-be-paid",
+    "href": "internships.html#will-i-be-paid",
+    "title": "What is an Internship?",
+    "section": "2 Will I be paid?",
+    "text": "2 Will I be paid?\nInternships may be paid, unpaid, or partially-paid (e.g. the student may receive a stipend for the period, rather than an hourly rate).\nThe SIPBS matching scheme provides no funds either for the student, or in support of the project. Supervisors who offer projects may have financial resources that could be used to fund the project or pay the intern. Alternatively the student or the supervisor (or both together, depending on the scheme) may apply for funding from a third party, such as the university, a charity, or professional society, to support the placement."
+  },
+  {
+    "objectID": "internships.html#what-will-i-get-from-the-experience",
+    "href": "internships.html#what-will-i-get-from-the-experience",
+    "title": "What is an Internship?",
+    "section": "3 What will I get from the experience?",
+    "text": "3 What will I get from the experience?\nBy engaging in a practical research project, you will obtain skills, knowledge, and experience that cannot be obtained in other ways. You will be able to establish professional connections and begin to network in the field, as well as contributing to finding answers to real, cutting-edge research questions.\nIf you think you might be interested in a research career, then a placement is one way to find out if that career path is something you might like.\nWhere placements, or their funding, are competitive, there may be an element of prestige to winning that funding which helps make your future CV stand out against other applicants’."
+  },
+  {
+    "objectID": "internships.html#what-kinds-of-project-might-i-be-able-to-do",
+    "href": "internships.html#what-kinds-of-project-might-i-be-able-to-do",
+    "title": "What is an Internship?",
+    "section": "4 What kinds of project might I be able to do?",
+    "text": "4 What kinds of project might I be able to do?\n\n\n\n\n\n\nNote\n\n\n\nThe range of projects and supervisors varies year-by-year, and you are always free to approach supervisors at other universities or in industry to find a project that suits you.\n\n\nPlease take a look at the Previous Projects page to see what projects have been on offer previously. General areas in which projects have been offered within SIPBS include:\n\nCellular Basis of Disease\n\nCancer\nInflammatory disease\nCardiovascular and metabolic disease\nNeuroscience and mental health\n\nComputational Biology and Bioinformatics\n\nMetabolic modelling of heart cells\nReconstructing regulatory networks in bacteria\n\nIndustrial Biotechnology\nMicrobiology\nPharmaceutical Sciences\nPharmacoepidemiology and Health Care"
+  },
+  {
+    "objectID": "internships.html#do-i-have-to-use-the-sipbs-matching-scheme",
+    "href": "internships.html#do-i-have-to-use-the-sipbs-matching-scheme",
+    "title": "What is an Internship?",
+    "section": "5 Do I have to use the SIPBS matching scheme?",
+    "text": "5 Do I have to use the SIPBS matching scheme?\nNo. You are always free to obtain an internship independently of the SIPBS scheme.\nWe offer the scheme to simplify the process of matching interested students with supervisors who are thinking of offering projects. As there are usually fewer projects on offer than interested students, we need to manage this process. But if you are interested in working in a particular area, or with a particular group, there is no reason you should not approach potential supervisors directly, outwith this scheme."
+  },
+  {
+    "objectID": "projects/2020-21.html",
+    "href": "projects/2020-21.html",
+    "title": "Projects: Summer 2021",
     "section": "",
-    "text": "Some opportunities for internship funding are listed below."
+    "text": "The table below lists PIs who indicated they would welcome SIPBS internship applicants for project work in Summer 2021.\n\n\n\n\n\n\n\n\nPI\nTopics\nProject Title\n\n\n\n\nDr H Batchelor  \npaediatric; formulation; biopharmaceutics\nTBA\n\n\nDr KC Carter  \nleishmaniasis; vaccines; recombinant DNA; ELISA\nDevelopment of a vaccine for treatment of leishmaniasis\n\n\nDr L Chamberlain  \ndatabase analysis; cancer; S-acylation\nTBA\n\n\nDr K Duncan  \nmarine biodiscovery; actinomycetes; microbial metabolomics, natural products\nTBA\n\n\nDr A Kurdi  \nprescriptions; pharmacy; data analysis\nTop ten conditions in terms of prescription items and expenditure across the UK: what is the trend over the last decade?\n\n\nDr IDH Oswald  \nmaterials & manufacture; co-crystals; polymorphism; spectroscopy\nMulticomponent materials under extreme conditions\n\n\nDr L Pritchard  \nmicrobial genomics; computational biology; bioinformatics; metabolic modelling\nTBA"
   },
   {
-    "objectID": "external_funding.html#strathclyde",
-    "href": "external_funding.html#strathclyde",
-    "title": "External Funding Opportunities",
-    "section": "1 Strathclyde",
-    "text": "1 Strathclyde\n\nInterns@Strathclyde: https://www.strath.ac.uk/studywithus/scholarships/researchinternsstrathclyde/"
+    "objectID": "projects/2020-21.html#offered-project-summaries",
+    "href": "projects/2020-21.html#offered-project-summaries",
+    "title": "Projects: Summer 2021",
+    "section": "",
+    "text": "The table below lists PIs who indicated they would welcome SIPBS internship applicants for project work in Summer 2021.\n\n\n\n\n\n\n\n\nPI\nTopics\nProject Title\n\n\n\n\nDr H Batchelor  \npaediatric; formulation; biopharmaceutics\nTBA\n\n\nDr KC Carter  \nleishmaniasis; vaccines; recombinant DNA; ELISA\nDevelopment of a vaccine for treatment of leishmaniasis\n\n\nDr L Chamberlain  \ndatabase analysis; cancer; S-acylation\nTBA\n\n\nDr K Duncan  \nmarine biodiscovery; actinomycetes; microbial metabolomics, natural products\nTBA\n\n\nDr A Kurdi  \nprescriptions; pharmacy; data analysis\nTop ten conditions in terms of prescription items and expenditure across the UK: what is the trend over the last decade?\n\n\nDr IDH Oswald  \nmaterials & manufacture; co-crystals; polymorphism; spectroscopy\nMulticomponent materials under extreme conditions\n\n\nDr L Pritchard  \nmicrobial genomics; computational biology; bioinformatics; metabolic modelling\nTBA"
   },
   {
-    "objectID": "external_funding.html#general",
-    "href": "external_funding.html#general",
-    "title": "External Funding Opportunities",
-    "section": "2 General",
-    "text": "2 General\n\nCarnegie Trust: https://www.carnegie-trust.org/award-schemes/vacation-scholarships/\nGatsby: https://www.gatsby.org.uk/plant-science/programmes/sainsbury-undergraduate-studentships\nSaltire Internships: https://www.entrepreneurialscotland.com/2023-apply-now\nWellcome Trust: https://wellcome.ac.uk/grant-funding/schemes/biomedical-vacation-scholarships"
-  },
-  {
-    "objectID": "external_funding.html#learned-society",
-    "href": "external_funding.html#learned-society",
-    "title": "External Funding Opportunities",
-    "section": "3 Learned Society",
-    "text": "3 Learned Society\n\nAnimal Free Research: https://www.animalfreeresearchuk.org/summerstudent/programme/\nAssociation for the Study of Animal Behaviour: https://asab.squarespace.com/scholarships/\nBritish Mycological Society: https://www.rsb.org.uk/get-involved/grants/undergraduate-studentships\nBritish Society for Cell Biology: https://bscb.org/competitions-awardsgrants/studentships/\nBiochemical Society: https://www.biochemistry.org/grants-and-awards/grants-and-bursaries/summer-vacation-studentships/\nExperimental Psychology Society: https://eps.ac.uk/undergraduate-research-bursary/\nFRAME: https://frame.org.uk/what-we-do/summer-studentship-programme/\nThe Genetics Society: https://genetics.org.uk/grants/summer-studentships/\nMedical Research Scotland: https://medicalresearchscotland.org.uk/undergraduate-vacation-scholarship/\nMicrobiology Society: https://microbiologysociety.org/grants/travel-research/harry-smith-vacation-studentships.html\nPhysiological Society: https://www.physoc.org/grants-and-prizes/grants/research-springboard-studentship/\nRoyal Microscopical Society: https://www.rms.org.uk/opportunities/summer-studentships.html\nSociety for Applied Microbiology: https://sfam.org.uk/career/grants/summer-student-placement-scholarship.html\nSociety for Endocrinology: https://www.endocrinology.org/grants-and-awards/research-grants/summer-studentships/"
-  },
-  {
-    "objectID": "external_funding.html#other-resources",
-    "href": "external_funding.html#other-resources",
-    "title": "External Funding Opportunities",
-    "section": "4 Other Resources",
-    "text": "4 Other Resources\n\nInternships listed at the British Neuroscience Association\nInternships listed at the Royal Society of Biology"
+    "objectID": "projects/2020-21.html#project-descriptions",
+    "href": "projects/2020-21.html#project-descriptions",
+    "title": "Projects: Summer 2021",
+    "section": "2 Project Descriptions",
+    "text": "2 Project Descriptions"
   },
   {
     "objectID": "projects/2023-24.html",
@@ -70,25 +91,11 @@
     "text": "3 References\n\n\nBurden, Natalie, Karin Aschberger, Qasim Chaudhry, Martin J. D. Clift, Shareen H. Doak, Paul Fowler, Helinor Johnston, Robert Landsiedel, Joanna Rowland, and Vicki Stone. 2017. “The 3Rs as a Framework to Support a 21st Century Approach for Nanosafety Assessment.” Nano Today 12: 10–13. https://doi.org/10.1016/j.nantod.2016.06.007.\n\n\nChadha, Ayush, Theresa L Charrois, and Jill Hall. 2022. “Moving Beyond Professionalism: Pharmacy Students Understanding of Professionalism and Professional Identity.” Curr. Pharm. Teach. Learn. 14 (8): 972–81.\n\n\nChisholm-Burns, Marie, and Christina Spivey. 2023. “Integration of Trauma-Informed Care into the Doctor of Pharmacy Curriculum.” Am. J. Pharm. Educ. 87 (7): 100038.\n\n\nLiu, Shuai, Wei Yang, Yunlei Li, and Changging Sun. 2023. “Fetal Bovine Serum, an Important Factor Affecting the Reproducibility of Cell Experiments.” Sci Rep 13: 1942. https://doi.org/10.1038/s41598-023-29060-7.\n\n\nOECD. 2018. Guidance Document on Good in Vitro Method Practices (GIVIMP). https://doi.org/10.1787/9789264304796-en.\n\n\nRadley, Andrew, Karen Melville, Phyllis Easton, Brian Williams, and John F Dillon. 2017. “‘Standing Outside the Junkie Door’—Service Users’ Experiences of Using Community Pharmacies to Access Treatment for Opioid Dependency.” J. Public Health (Oxf.) 39 (4): 846–55.\n\n\nvan der Valk, J., D. Mellor, R. Brands, R. Fischer, F. Gruber, G. Gstraunthaler, L. Hellebrekers, et al. 2004. “The Humane Collection of Fetal Bovine Serum and Possibilities for Serum-Free Cell and Tissue Culture.” Toxicology in Vitro 18 (1): 1–12. https://doi.org/10.1016/j.tiv.2003.08.009."
   },
   {
-    "objectID": "projects/2020-21.html",
-    "href": "projects/2020-21.html",
-    "title": "Projects: Summer 2021",
+    "objectID": "slides.html",
+    "href": "slides.html",
+    "title": "Slides",
     "section": "",
-    "text": "The table below lists PIs who indicated they would welcome SIPBS internship applicants for project work in Summer 2021.\n\n\n\n\n\n\n\n\nPI\nTopics\nProject Title\n\n\n\n\nDr H Batchelor  \npaediatric; formulation; biopharmaceutics\nTBA\n\n\nDr KC Carter  \nleishmaniasis; vaccines; recombinant DNA; ELISA\nDevelopment of a vaccine for treatment of leishmaniasis\n\n\nDr L Chamberlain  \ndatabase analysis; cancer; S-acylation\nTBA\n\n\nDr K Duncan  \nmarine biodiscovery; actinomycetes; microbial metabolomics, natural products\nTBA\n\n\nDr A Kurdi  \nprescriptions; pharmacy; data analysis\nTop ten conditions in terms of prescription items and expenditure across the UK: what is the trend over the last decade?\n\n\nDr IDH Oswald  \nmaterials & manufacture; co-crystals; polymorphism; spectroscopy\nMulticomponent materials under extreme conditions\n\n\nDr L Pritchard  \nmicrobial genomics; computational biology; bioinformatics; metabolic modelling\nTBA"
-  },
-  {
-    "objectID": "projects/2020-21.html#offered-project-summaries",
-    "href": "projects/2020-21.html#offered-project-summaries",
-    "title": "Projects: Summer 2021",
-    "section": "",
-    "text": "The table below lists PIs who indicated they would welcome SIPBS internship applicants for project work in Summer 2021.\n\n\n\n\n\n\n\n\nPI\nTopics\nProject Title\n\n\n\n\nDr H Batchelor  \npaediatric; formulation; biopharmaceutics\nTBA\n\n\nDr KC Carter  \nleishmaniasis; vaccines; recombinant DNA; ELISA\nDevelopment of a vaccine for treatment of leishmaniasis\n\n\nDr L Chamberlain  \ndatabase analysis; cancer; S-acylation\nTBA\n\n\nDr K Duncan  \nmarine biodiscovery; actinomycetes; microbial metabolomics, natural products\nTBA\n\n\nDr A Kurdi  \nprescriptions; pharmacy; data analysis\nTop ten conditions in terms of prescription items and expenditure across the UK: what is the trend over the last decade?\n\n\nDr IDH Oswald  \nmaterials & manufacture; co-crystals; polymorphism; spectroscopy\nMulticomponent materials under extreme conditions\n\n\nDr L Pritchard  \nmicrobial genomics; computational biology; bioinformatics; metabolic modelling\nTBA"
-  },
-  {
-    "objectID": "projects/2020-21.html#project-descriptions",
-    "href": "projects/2020-21.html#project-descriptions",
-    "title": "Projects: Summer 2021",
-    "section": "2 Project Descriptions",
-    "text": "2 Project Descriptions"
+    "text": "This page provides a link to download the SIPBS internship matching presentation slides for AY2023-24.\n\nDOWNLOAD"
   },
   {
     "objectID": "matching.html",
@@ -154,6 +161,41 @@
     "text": "Projects: Summer 2024\n\n\n\n\nProjects offered for SIPBS Internships, starting Summer 2024.\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nProjects: Summer 2023\n\n\n\n\nProjects offered for SIPBS Internships, starting Summer 2023.\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nProjects: Summer 2022\n\n\n\n\nProjects offered for SIPBS Internships, starting Summer 2022.\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nProjects: Summer 2021\n\n\n\n\nProjects offered for SIPBS Internships, starting Summer 2021.\n\n\n\n\n \n\n\n\n\nNo matching items"
   },
   {
+    "objectID": "external_funding.html",
+    "href": "external_funding.html",
+    "title": "External Funding Opportunities",
+    "section": "",
+    "text": "Some opportunities for internship funding are listed below."
+  },
+  {
+    "objectID": "external_funding.html#strathclyde",
+    "href": "external_funding.html#strathclyde",
+    "title": "External Funding Opportunities",
+    "section": "1 Strathclyde",
+    "text": "1 Strathclyde\n\nInterns@Strathclyde: https://www.strath.ac.uk/studywithus/scholarships/researchinternsstrathclyde/"
+  },
+  {
+    "objectID": "external_funding.html#general",
+    "href": "external_funding.html#general",
+    "title": "External Funding Opportunities",
+    "section": "2 General",
+    "text": "2 General\n\nCarnegie Trust: https://www.carnegie-trust.org/award-schemes/vacation-scholarships/\nGatsby: https://www.gatsby.org.uk/plant-science/programmes/sainsbury-undergraduate-studentships\nSaltire Internships: https://www.entrepreneurialscotland.com/2023-apply-now\nWellcome Trust: https://wellcome.ac.uk/grant-funding/schemes/biomedical-vacation-scholarships"
+  },
+  {
+    "objectID": "external_funding.html#learned-society",
+    "href": "external_funding.html#learned-society",
+    "title": "External Funding Opportunities",
+    "section": "3 Learned Society",
+    "text": "3 Learned Society\n\nAnimal Free Research: https://www.animalfreeresearchuk.org/summerstudent/programme/\nAssociation for the Study of Animal Behaviour: https://asab.squarespace.com/scholarships/\nBritish Mycological Society: https://www.rsb.org.uk/get-involved/grants/undergraduate-studentships\nBritish Society for Cell Biology: https://bscb.org/competitions-awardsgrants/studentships/\nBiochemical Society: https://www.biochemistry.org/grants-and-awards/grants-and-bursaries/summer-vacation-studentships/\nExperimental Psychology Society: https://eps.ac.uk/undergraduate-research-bursary/\nFRAME: https://frame.org.uk/what-we-do/summer-studentship-programme/\nThe Genetics Society: https://genetics.org.uk/grants/summer-studentships/\nMedical Research Scotland: https://medicalresearchscotland.org.uk/undergraduate-vacation-scholarship/\nMicrobiology Society: https://microbiologysociety.org/grants/travel-research/harry-smith-vacation-studentships.html\nPhysiological Society: https://www.physoc.org/grants-and-prizes/grants/research-springboard-studentship/\nRoyal Microscopical Society: https://www.rms.org.uk/opportunities/summer-studentships.html\nSociety for Applied Microbiology: https://sfam.org.uk/career/grants/summer-student-placement-scholarship.html\nSociety for Endocrinology: https://www.endocrinology.org/grants-and-awards/research-grants/summer-studentships/"
+  },
+  {
+    "objectID": "external_funding.html#other-resources",
+    "href": "external_funding.html#other-resources",
+    "title": "External Funding Opportunities",
+    "section": "4 Other Resources",
+    "text": "4 Other Resources\n\nInternships listed at the British Neuroscience Association\nInternships listed at the Royal Society of Biology"
+  },
+  {
     "objectID": "projects/2021-22.html",
     "href": "projects/2021-22.html",
     "title": "Projects: Summer 2022",
@@ -194,48 +236,6 @@
     "title": "Projects: Summer 2023",
     "section": "2 Project Descriptions",
     "text": "2 Project Descriptions"
-  },
-  {
-    "objectID": "internships.html",
-    "href": "internships.html",
-    "title": "What is an Internship?",
-    "section": "",
-    "text": "This page aims to describe what an internship, how it might be useful for your future career and other ambitions, and to give answers to some other related questions."
-  },
-  {
-    "objectID": "internships.html#what-is-an-internship",
-    "href": "internships.html#what-is-an-internship",
-    "title": "What is an Internship?",
-    "section": "1 What is an internship?",
-    "text": "1 What is an internship?\nAn internship is a period of professional work experience. In the case of the SIPBS matching scheme, this is typically an 8-10 week summer placement in a working research laboratory within the department."
-  },
-  {
-    "objectID": "internships.html#will-i-be-paid",
-    "href": "internships.html#will-i-be-paid",
-    "title": "What is an Internship?",
-    "section": "2 Will I be paid?",
-    "text": "2 Will I be paid?\nInternships may be paid, unpaid, or partially-paid (e.g. the student may receive a stipend for the period, rather than an hourly rate).\nThe SIPBS matching scheme provides no funds either for the student, or in support of the project. Supervisors who offer projects may have financial resources that could be used to fund the project or pay the intern. Alternatively the student or the supervisor (or both together, depending on the scheme) may apply for funding from a third party, such as the university, a charity, or professional society, to support the placement."
-  },
-  {
-    "objectID": "internships.html#what-will-i-get-from-the-experience",
-    "href": "internships.html#what-will-i-get-from-the-experience",
-    "title": "What is an Internship?",
-    "section": "3 What will I get from the experience?",
-    "text": "3 What will I get from the experience?\nBy engaging in a practical research project, you will obtain skills, knowledge, and experience that cannot be obtained in other ways. You will be able to establish professional connections and begin to network in the field, as well as contributing to finding answers to real, cutting-edge research questions.\nIf you think you might be interested in a research career, then a placement is one way to find out if that career path is something you might like.\nWhere placements, or their funding, are competitive, there may be an element of prestige to winning that funding which helps make your future CV stand out against other applicants’."
-  },
-  {
-    "objectID": "internships.html#what-kinds-of-project-might-i-be-able-to-do",
-    "href": "internships.html#what-kinds-of-project-might-i-be-able-to-do",
-    "title": "What is an Internship?",
-    "section": "4 What kinds of project might I be able to do?",
-    "text": "4 What kinds of project might I be able to do?\n\n\n\n\n\n\nNote\n\n\n\nThe range of projects and supervisors varies year-by-year, and you are always free to approach supervisors at other universities or in industry to find a project that suits you.\n\n\nPlease take a look at the Previous Projects page to see what projects have been on offer previously. General areas in which projects have been offered within SIPBS include:\n\nCellular Basis of Disease\n\nCancer\nInflammatory disease\nCardiovascular and metabolic disease\nNeuroscience and mental health\n\nComputational Biology and Bioinformatics\n\nMetabolic modelling of heart cells\nReconstructing regulatory networks in bacteria\n\nIndustrial Biotechnology\nMicrobiology\nPharmaceutical Sciences\nPharmacoepidemiology and Health Care"
-  },
-  {
-    "objectID": "internships.html#do-i-have-to-use-the-sipbs-matching-scheme",
-    "href": "internships.html#do-i-have-to-use-the-sipbs-matching-scheme",
-    "title": "What is an Internship?",
-    "section": "5 Do I have to use the SIPBS matching scheme?",
-    "text": "5 Do I have to use the SIPBS matching scheme?\nNo. You are always free to obtain an internship independently of the SIPBS scheme.\nWe offer the scheme to simplify the process of matching interested students with supervisors who are thinking of offering projects. As there are usually fewer projects on offer than interested students, we need to manage this process. But if you are interested in working in a particular area, or with a particular group, there is no reason you should not approach potential supervisors directly, outwith this scheme."
   },
   {
     "objectID": "index.html",
