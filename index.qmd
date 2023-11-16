@@ -25,7 +25,7 @@ These pages describe the SIPBS summer internship matching process and provide su
 
 ## Getting started
 
-We suggest that you start by looking over the description of the [Matching](matching.qmd) process, [Current Projects](%7B%7B%3C%20var%20projects.current%20%3E%7D%7D) and [External Funding](external_funding.md) under **General Information**. After that, please take a look at the [Slides](slides.md) and complete the [form](forms.md) if you wish to be considered for the matching process.
+We suggest that you start by looking over the description of the [Matching](matching.qmd) process, [Current Projects](%7B%7B%3C%20var%20projects.current%20%3E%7D%7D) and [External Funding](external_funding.qmd) under **General Information**. After that, please take a look at the [Slides](slides.md) and complete the [form](forms.qmd) if you wish to be considered for the matching process.
 
 ## Acknowledgements
 
