@@ -19,6 +19,12 @@ Welcome to the SIPBS Summer Internships and Internship Matching pages for the St
 
 These pages should be read in conjunction with the official SIPBS Internship Materials available on the course [MyPlace page]({{< var myplace.link >}})
 
+::: {.callout-important}
+## The matching process for 2023-2024 has now concluded
+
+If you were not matched in this process, please use these pages as a resource to help you with approaching potential supervisors, and to obtain funding and other support.
+:::
+
 ## What is this site for?
 
 These pages describe the SIPBS summer internship matching process and provide supporting information about this activity, including a list of potential internship opportunities
