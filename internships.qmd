@@ -25,6 +25,12 @@ This page aims to describe what an internship, how it might be useful for your f
 
 An internship is a period of professional work experience. In the case of the SIPBS matching scheme, this is typically an 8-10 week summer placement in a working research laboratory within the department.
 
+::: { .callout-note }
+The Careers Service has support to help with finding a placement/internship outwith the SIPBS matching scheme.
+
+- [Careers Service Internship and Placement Advice](https://www.strath.ac.uk/professionalservices/careers/students/workexperience/internshipsplacements/)
+:::
+
 ## Will I be paid?
 
 Internships may be paid, unpaid, or partially-paid (e.g. the student may receive a stipend for the period, rather than an hourly rate).
@@ -65,3 +71,9 @@ Please take a look at the [Previous Projects](./previous_projects.qmd) page to s
 No. You are always free to obtain an internship independently of the SIPBS scheme.
 
 We offer the scheme to simplify the process of matching interested students with supervisors who are thinking of offering projects. As there are usually fewer projects on offer than interested students, we need to manage this process. But if you are interested in working in a particular area, or with a particular group, there is no reason you should not approach potential supervisors directly, outwith this scheme.
+
+::: { .callout-warning }
+The scheme we run at SIPBS is unusual for internships/placements, in that we advertise and try to match students with projects.
+
+**Most internships are never advertised,** you need to **be proactive** and ask people or organisations you might want to work with if they may have opportunities.
+:::
