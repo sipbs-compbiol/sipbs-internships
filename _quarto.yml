@@ -18,7 +18,7 @@ website:
         - text: "Matching"
           href: matching.qmd
         - text: "Current Projects"
-          href: projects/2023-24.qmd
+          href: projects/2024-25.qmd
         - text: "External Funding Opportunities"
           href: external_funding.qmd
       - text: "Materials"
@@ -36,7 +36,7 @@ website:
       - icon: rss
         href: index.xml  
   page-footer: 
-    left: This site © University of Strathclyde 2023
+    left: This site © University of Strathclyde 2024
 
 format:
   html:
