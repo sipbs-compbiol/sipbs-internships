@@ -25,7 +25,7 @@ This page describes the process we use for matching students with SIPBS supervis
 **Even though we offer a matching scheme for summer internships and placements, you are at all times at liberty to pursue internships independently. There is no obligation to use the matching scheme, and whether or not you are selected through this scheme, you are of course able to apply for any internships that are available through other routes.**
 :::
 
-![2023 Internship Matching Process Flowchart](./assets/images/2023_internship_flowchart.png)
+![2024 Internship Matching Process Flowchart](./assets/images/2024_internship_flowchart.png)
 
 ## Introductory Lecture
 
@@ -49,10 +49,10 @@ Forms should be emailed to [{{< var form.email >}}](mailto:%7B%7B%3C%20var%20for
 
 ## Student Matching and Project Allocation
 
-We operate a ranking process for applications. Applicants are ranked in order by second-year credit-weighted average (%CMA). The highest-ranked students, usually about 8-10, are allocated to projects and supervisors on the basis of student preference.
+We operate a ranking process for applications. Applicants are ranked in order by second-year credit-weighted average (%CWA). The highest-ranked students, usually about 8-10, are allocated to projects and supervisors on the basis of student preference.
 
 ::: callout-note
-Other criteria are applied for third-year direct entrants. A number of places are reserved to accommodate these students.
+Other criteria are applied for third-year direct entrants. A proportion of places are reserved to accommodate these students.
 :::
 
 ::: callout-warning

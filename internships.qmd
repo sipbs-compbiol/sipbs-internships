@@ -77,3 +77,10 @@ The scheme we run at SIPBS is unusual for internships/placements, in that we adv
 
 **Most internships are never advertised,** you need to **be proactive** and ask people or organisations you might want to work with if they may have opportunities.
 :::
+
+::: {.callout-important}
+The university has pages offering advice for arranging your own internship:
+
+- [Work experience and internship placements](https://www.strath.ac.uk/professionalservices/careers/students/workexperience/internshipsplacements/)
+- [Making speculative applications for internships](https://www.strath.ac.uk/professionalservices/careers/students/makingapplications/makingspeculativeapplications/)
+:::

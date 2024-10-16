@@ -1,6 +1,6 @@
 ---
 title: "Slides"
-image: assets/images/2023-24_slides.png
+image: assets/images/2024-25_slides.png
 description: |
  Internship-related presentation slides
 number-sections: true
@@ -22,4 +22,4 @@ html:
 
 This page provides a link to download the SIPBS internship matching presentation slides for {{< var ay >}}.
 
-- [DOWNLOAD]({{< var session.slides >}})
+- [DOWNLOAD]({{< var session.presentation >}})

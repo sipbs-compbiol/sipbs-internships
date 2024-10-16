@@ -3,27 +3,27 @@ admin:
   email: "leighton.pritchard@strath.ac.uk"
   homepage: "https://www.strath.ac.uk/staff/pritchardleightondr/"
   
-ay: "AY2023-24"
+ay: "AY2024-25"
 
 projects:
-  current: "projects/2023-24.qmd"
+  current: "projects/2024-25.qmd"
 
 session:
-  date: "Friay 20th October 2023"
-  location: "GH514"
-  presentation: "assets/presentations/2023-24_introduction_to_SIPBS_Internships.pdf"
-  image: "assets/images/2023-24_slides.png"
+  date: "Friday 18th October 2024"
+  location: "SW105"
+  presentation: "assets/presentations/2024-25_introduction_to_SIPBS_Internships.pdf"
+  image: "assets/images/2024-25_slides.png"
 
 form:
-  deadline: "Monday 30th October 2023"
+  deadline: "Monday 28th October 2024"
   email: "philip.brown@strath.ac.uk"
-  link: "assets/forms/SIPBS_Placement_Application_Form_2023-24.docx"
+  link: "assets/forms/SIPBS_Placement_Application_Form_2024-25.docx"
   
 matching:
-  date: "December 2023"
+  date: "December 2024"
   
 meeting:
-  date: "January 2024"
+  date: "January 2025"
   
 myplace:
   course: "BM327 Being a Biomolecular Scientist"

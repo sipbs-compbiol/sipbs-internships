@@ -19,10 +19,17 @@ Welcome to the SIPBS Summer Internships and Internship Matching pages for the St
 
 These pages should be read in conjunction with the official SIPBS Internship Materials available on the course [MyPlace page]({{< var myplace.link >}})
 
-::: {.callout-important}
-## The matching process for 2023-2024 has now concluded
+::: {.callout-tip}
+## The matching process for 2024-2025 will begin in October 2024
 
-If you were not matched in this process, please use these pages as a resource to help you with approaching potential supervisors, and to obtain funding and other support.
+If you are not matched in this process, please use these pages as a resource to help you with approaching potential supervisors, and to obtain funding and other support.
+:::
+
+::: {.callout-important}
+You do not need to go through the matching scheme to find or undertake an internship. The university has pages offering advice for arranging your own internship:
+
+- [Work experience and internship placements](https://www.strath.ac.uk/professionalservices/careers/students/workexperience/internshipsplacements/)
+- [Making speculative applications for internships](https://www.strath.ac.uk/professionalservices/careers/students/makingapplications/makingspeculativeapplications/)
 :::
 
 ## What is this site for?
@@ -31,7 +38,7 @@ These pages describe the SIPBS summer internship matching process and provide su
 
 ## Getting started
 
-We suggest that you start by looking over the description of the [Matching](matching.qmd) process, [Current Projects](%7B%7B%3C%20var%20projects.current%20%3E%7D%7D) and [External Funding](external_funding.qmd) under **General Information**. After that, please take a look at the [Slides](slides.md) and complete the [form](forms.qmd) if you wish to be considered for the matching process.
+We suggest that you start by looking over the description of the [Matching](matching.qmd) process, [Current Projects](%7B%7B%3C%20var%20projects.current%20%3E%7D%7D) and [External Funding](external_funding.qmd) under **General Information**. After that, please take a look at the [Slides](slides.qmd) and complete the [form](forms.qmd) if you wish to be considered for the matching process.
 
 ## Acknowledgements
 

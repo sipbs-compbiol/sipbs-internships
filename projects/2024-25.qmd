@@ -1,0 +1,87 @@
+---
+title: "Projects: Summer 2025"
+image: ../assets/images/2025.jpg
+description: |
+ Projects offered for SIPBS Internships, starting Summer 2025.
+tbl-colwidths: [20, 40, 40]
+number-sections: true
+about:
+  template: marquee
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/scompbiol
+    - icon: github
+      text: Github
+      href: https://github.com/sipbs-compbiol
+    - icon: envelope
+      text: Email
+      href: mailto:leighton.pritchard@strath.ac.uk
+html:
+  anchor-sections: true
+---
+
+## Offered Project Summaries
+
+The table below lists PIs who have actively indicated they would welcome SIPBS internship applicants for project work in Summer 2025.
+
+::: callout-important
+All project titles, and their availabilities, are provisional.
+:::
+
+::: callout-warning
+Some projects may only proceed if suitable funding is obtained, or other conditions are met.
+:::
+
+| PI                                                                                                                                   | Topics                                                         | Project Title                                                                                         | Students |
+|:----------------------|:------------------------|:------------------------|:--:|
+| Dr F Murphy [{{< bi envelope >}}](mailto:f.murphy@strath.ac.uk)[{{< bi link >}}](https://www.strath.ac.uk/staff/murphyfionadr/)                                                                            | 3Rs, nanotoxicology, in vitro alternative, sustainable cell culture | ['Humanising' cell culture conditions for in vitro hazard assessment of nanomaterials](#sec-murphy-1) | 1 |
+| Dr F Murphy [{{< bi envelope >}}](mailto:f.murphy@strath.ac.uk)[{{< bi link >}}](https://www.strath.ac.uk/staff/murphyfionadr/)                                                                             | 3Rs, nanotoxicology, in vitro alternative, sustainable cell culture | [Evaluating the utility of _Galleria Mellonella_ to assess the toxicity of carbon nanotubes](#sec-murphy-2) | 1 |
+| Dr N Rattray [{{< bi envelope >}}](mailto:nicholas.rattray@strath.ac.uk)[{{< bi link >}}](https://www.strath.ac.uk/staff/rattraynicholasdr/), Prof. A Mullen [{{< bi envelope >}}](mailto:a.mullen@strath.ac.uk)[{{< bi link >}}](https://www.strath.ac.uk/staff/mullenalexanderprof/) | 3Rs, pharmacodynamics, liver metabolism | [Exploring the Use of Fungal Microsome Systems as an Alternative to Animal Drug Metabolism Studies: a 3Rs Approach](#sec-rattray-1) | 1 |
+| Dr Z Rattray [{{< bi envelope >}}](mailto:zahra.rattray@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/rattrayzahradr/) | Nanotechnology; Analysis; Bioanalysis; Antibody; Antibody-drug conjugates; peptides | [Developing new analytical methods for nanotechnology based products](#sec-rattray-2) | 2 |
+
+
+## Project Descriptions
+
+### Dr F. Murphy: Evaluating the impact of removing animal-derived products from cell culture protocols {#sec-murphy-1}
+
+Keywords: 3Rs, nanotoxicology, in vitro alternative, sustainable cell culture
+
+#### Brief overview
+
+The growth of cells is reliant on nutrient rich growth media which is commonly supplemented with products extracted from animal sources. The ethical concerns over the extraction methods used to generate animal-derived products have prompted a drive to replacement in standard lab assays where possible. To support switching to more sustainable and ethical human-derived proteins in cell culture, we first need to understand how this switch may affect how our cells grow and behave under different conditions. This project will compare the effect of switching to alternative human or synthetic proteins to promote the adoption of animal-free alternatives in the culture of lung epithelial cell and immune cells. This project will compare the effect of switching to alternative human or synthetic proteins to promote the adoption of animal-free alternatives in the culture of lung epithelial cell and immune cells.
+
+### Dr F. Murphy: Evaluating the utility of _Galleria Mellonella_ to assess the toxicity of carbon nanotubes {#sec-murphy-2}
+
+Keywords: 3Rs, nanotoxicology, in vitro alternative, sustainable cell culture
+
+#### Brief overview
+
+The growing nanotechnology sector based on the development of nanomaterials, 1000 times smaller than the width of a human hair, has caused concerns over the impact new forms of particles may have on human lungs. The methods we currently use to identify potentially toxic particles rely heavily on substituting humans with rodents in experiments designed to simulate real-life exposure to dusts. However, as well as being expensive and time consuming this approach is considered unsustainable and ethically questionable. We urgently need new methods to investigate the potential toxic effects of nanomaterials. The larvae of _Galleria Mellonella_ are increasingly being used as an infection model to study virulence factors and pathogenesis of many prominent human pathogens. The immune system of _G. mellonella_ larvae shares a high degree of structural and functional homology to the innate immune systems of vertebrates and possess blood cells (haemocytes) conside_red comparable to a number of human immune cells. This model has not yet been widely utilised for the hazard assessment of nanomaterials. This project aims to evaluate the utility of _G. Mellonella_ to assess the toxicity of carbon nanotubes (CNT).
+
+### Dr N. Rattray, Prof. A. Mullen: Exploring the Use of Fungal Microsome Systems as an Alternative to Animal Drug Metabolism Studies: a 3Rs Approach
+
+Keywords: 3Rs, pharmacodynamics, liver metabolism
+
+#### Brief overview
+
+The accurate prediction of drug metabolism is a crucial aspect of drug development, but current methods often rely on the use of CYP450 microsomes from animals to model liver conversion of drugs and other xenobiotics. Aside from the use of animal extracts in these systems, they are also expensive, complex, and challenging to scale for high-throughput studies. As an alternative, fungal microsome systems, particularly those using _Cunninghamella elegans_ to express many CYP450 enzymes that belong to the same superfamily of proteins found in humans, provide a cost-effective and efficient solution.
+
+#### Objectives
+
+This project aims to evaluate and optimize fungal microsome systems as a reliable tool for drug metabolism studies. Specifically, it will:  
+
+1. Develop fungal systems expressing key human CYP450 isoforms involved in drug metabolism.
+2. Compare the performance of fungal microsomes with traditional murine liver microsomes in drug screening.
+3. Investigate their scalability and reproducibility for high-throughput drug metabolism assessments.
+4. Can the fungal systems predict classic drug-drug interactions?
+
+
+### Dr Z. Rattray: Developing new analytical methods for nanotechnology based products
+
+Keywords: Nanotechnology; Analysis; Bioanalysis; Antibody; Antibody-drug conjugates; peptides
+
+#### Brief Overview
+
+SIPBS is host to the EPSRC multiscale metrology suite for next generation health nanotechnologies national facility. The role of the facility is to develop new analytical methods so that we can develop new and safer medicines for unmet clinical need. In this project, you will be working with the Rattray lab to address a challenge in the analysis of nanotechnology based formulations.
+
