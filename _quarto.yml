@@ -4,7 +4,7 @@ project:
 website:
   title: "SIPBS Internships"
   site-url: https://sipbs-compbiol.github.io/sipbs-internships
-  description: "Course website for SIPBS Internships and Matching in Semester 1 2023"
+  description: "Course website for SIPBS Internships and Matching in Semester 1 2024"
   favicon: "icon_32.png"
   navbar:
     logo: ./assets/images/sipbs_compbio.png
