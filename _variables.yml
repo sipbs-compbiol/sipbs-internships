@@ -11,19 +11,19 @@ projects:
 session:
   date: "Friday 18th October 2024"
   location: "SW105"
-  presentation: "assets/presentations/2024-25_introduction_to_SIPBS_Internships.pdf"
+  presentation: "assets/presentations/2024-25_introduction_to_SIPBS_Internships_v2.pdf"
   image: "assets/images/2024-25_slides.png"
 
 form:
-  deadline: "Monday 28th October 2024"
+  deadline: "Friday 29th November 2024"
   email: "philip.brown@strath.ac.uk"
-  link: "assets/forms/SIPBS_Placement_Application_Form_2024-25.docx"
+  link: "assets/forms/SIPBS_Placement_Application_Form_2024-25_v2.docx"
   
 matching:
-  date: "December 2024"
+  date: "December 2024 - January 2025"
   
 meeting:
-  date: "January 2025"
+  date: "January-February 2025"
   
 myplace:
   course: "BM327 Being a Biomolecular Scientist"

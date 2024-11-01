@@ -25,6 +25,12 @@ These pages should be read in conjunction with the official SIPBS Internship Mat
 If you are not matched in this process, please use these pages as a resource to help you with approaching potential supervisors, and to obtain funding and other support.
 :::
 
+::: {.callout-warning}
+**In {{< var ay >}} the deadline for submitting the application form will be {{< var form.deadline >}}.**
+
+Forms should be emailed to [{{< var form.email >}}](mailto:%7B%7B%3C%20var%20form.email%20%3E%7D%7D)
+:::
+
 ::: {.callout-important}
 You do not need to go through the matching scheme to find or undertake an internship. The university has pages offering advice for arranging your own internship:
 

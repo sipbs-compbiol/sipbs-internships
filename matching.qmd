@@ -41,7 +41,7 @@ Early in the academic year, scientists in SIPBS are asked if they would like to 
 
 After the introductory session, you will be invited to select up to three PIs, projects, or topics from this [Current Projects](%7B%7B%3C%20var%20projects.current%20%3E%7D%7D) list and to complete an Application Form for matching. This form will be made available after the session.
 
-::: callout-warning
+::: {.callout-warning}
 In {{< var ay >}} the deadline for submitting the application form will be {{< var form.deadline >}}.
 
 Forms should be emailed to [{{< var form.email >}}](mailto:%7B%7B%3C%20var%20form.email%20%3E%7D%7D)
@@ -51,11 +51,11 @@ Forms should be emailed to [{{< var form.email >}}](mailto:%7B%7B%3C%20var%20for
 
 We operate a ranking process for applications. Applicants are ranked in order by second-year credit-weighted average (%CWA). The highest-ranked students, usually about 8-10, are allocated to projects and supervisors on the basis of student preference.
 
-::: callout-note
+::: {.callout-note}
 Other criteria are applied for third-year direct entrants. A proportion of places are reserved to accommodate these students.
 :::
 
-::: callout-warning
+::: {.callout-warning}
 Applicants may be excluded from consideration on the basis of January examination results (e.g. a failing mark).
 :::
 

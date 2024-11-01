@@ -31,6 +31,16 @@ The Careers Service has support to help with finding a placement/internship outw
 - [Careers Service Internship and Placement Advice](https://www.strath.ac.uk/professionalservices/careers/students/workexperience/internshipsplacements/)
 :::
 
+::: {.callout-warning}
+**It is very important for you to take responsibility for your own internship search.**
+
+As the Careers Service advises,
+
+> “Source your own internship & placement: It's very important to be proactive in your job search. Do not wait for vacancies to be advertised - it might never happen. Many organisations do not need to advertise their work experience opportunities, as they receive hundreds of speculative applications from students.”
+
+If you wait to be noticed by someone and offered an internship, you will most likely not get one.
+:::
+
 ## Will I be paid?
 
 Internships may be paid, unpaid, or partially-paid (e.g. the student may receive a stipend for the period, rather than an hourly rate).
