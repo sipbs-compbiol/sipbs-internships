@@ -1,5 +1,8 @@
 project:
   type: website
+  resources:
+    - "assets/presentations/2024_slides.pdf"
+    - "assets/forms/SIPBS_Placement_Application_Form_2024-25_v2.docx"
 
 website:
   title: "SIPBS Internships"
