@@ -11,7 +11,7 @@ projects:
 session:
   date: "Friday 18th October 2024"
   location: "SW105"
-  presentation: "assets/presentations/2024-25_introduction_to_SIPBS_Internships_v2.pdf"
+  presentation: "assets/presentations/2024_slides.pdf"
   image: "assets/images/2024-25_slides.png"
 
 form:
