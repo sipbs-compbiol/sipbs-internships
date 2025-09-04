@@ -25,11 +25,13 @@ html:
 
 The table below lists PIs who have actively indicated they would welcome SIPBS internship applicants for project work in {{< var summer >}}.
 
-::: callout-important
+::: { .callout-important }
+## Project submission deadlines are still open - this list may change
+
 All project titles, and their availabilities, are provisional.
 :::
 
-::: callout-warning
+::: { .callout-warning }
 Some projects may only proceed if suitable funding is obtained, or other conditions are met.
 :::
 
