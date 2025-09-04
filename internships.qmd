@@ -78,7 +78,9 @@ Please take a look at the [Previous Projects](./previous_projects.qmd) page to s
 
 ## Do I have to use the SIPBS matching scheme?
 
+::: { .callout-tip }
 No. You are always free to obtain an internship independently of the SIPBS scheme.
+:::
 
 We offer the scheme to simplify the process of matching interested students with supervisors who are thinking of offering projects. As there are usually fewer projects on offer than interested students, we need to manage this process. But if you are interested in working in a particular area, or with a particular group, there is no reason you should not approach potential supervisors directly, outwith this scheme.
 

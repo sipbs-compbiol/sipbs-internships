@@ -20,7 +20,7 @@ Welcome to the SIPBS Summer Internships and Internship Matching pages for the St
 These pages should be read in conjunction with the official SIPBS Internship Materials available on the course [MyPlace page]({{< var myplace.link >}})
 
 ::: {.callout-tip}
-## The matching process for 2024-2025 will begin in October 2024
+## The matching process for 2025-2026 will begin in October 2025
 
 If you are not matched in this process, please use these pages as a resource to help you with approaching potential supervisors, and to obtain funding and other support.
 :::

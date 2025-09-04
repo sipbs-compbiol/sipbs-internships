@@ -25,7 +25,7 @@ This page describes the process we use for matching students with SIPBS supervis
 **Even though we offer a matching scheme for summer internships and placements, you are at all times at liberty to pursue internships independently. There is no obligation to use the matching scheme, and whether or not you are selected through this scheme, you are of course able to apply for any internships that are available through other routes.**
 :::
 
-![2024 Internship Matching Process Flowchart](./assets/images/2024_internship_flowchart.png)
+![2025 Internship Matching Process Flowchart](./assets/images/2025_internship_flowchart.png)
 
 ## Introductory Lecture
 
@@ -59,11 +59,11 @@ Other criteria are applied for third-year direct entrants. A proportion of place
 Applicants may be excluded from consideration on the basis of January examination results (e.g. a failing mark).
 :::
 
-In {{< var ay >}}, we expect matching of students to supervisors and projects to be complete by {{< var matching.date >}}.
+In {{< var ay >}} we expect matching of students to supervisors and projects to be complete by {{< var matching.date >}}.
 
 ## Student-Supervisor Meeting
 
-In order to be in time for [internship and placement funding opportunity](./external_funding.qmd) deadlines, we ask students and supervisors to meet early in the new year to discuss the project and plan out how to seek funding. In AY2023-24, we expect these meetings to take place in {{< var meeting.date >}}.
+In order to be in time for [internship and placement funding opportunity](./external_funding.qmd) deadlines, we ask students and supervisors to meet early in the new year to discuss the project and plan out how to seek funding. In {{< var ay >}} we expect these meetings to take place in {{< var meeting.date >}}.
 
 ::: callout-important
 Arranging this meeting is the responsibility of the student and the supervisor. Successful applicants should be sure to contact their supervisor as early as practicable.

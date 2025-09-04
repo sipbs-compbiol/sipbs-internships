@@ -1,0 +1,62 @@
+---
+title: "Projects: Summer 2026"
+image: ../assets/images/2026.jpg
+description: 
+ Projects offered for SIPBS Internships, starting Summer 2026.
+tbl-colwidths: [20, 40, 40]
+number-sections: true
+about:
+  template: marquee
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/scompbiol
+    - icon: github
+      text: Github
+      href: https://github.com/sipbs-compbiol
+    - icon: envelope
+      text: Email
+      href: mailto:leighton.pritchard@strath.ac.uk
+html:
+  anchor-sections: true
+---
+
+## Offered Project Summaries
+
+The table below lists PIs who have actively indicated they would welcome SIPBS internship applicants for project work in {{< var summer >}}.
+
+::: callout-important
+All project titles, and their availabilities, are provisional.
+:::
+
+::: callout-warning
+Some projects may only proceed if suitable funding is obtained, or other conditions are met.
+:::
+
+| PI                                                                                                                                   | Topics                                                         | Project Title                                                                                         | Students |
+|:----------------------|:------------------------|:------------------------|:--:|
+| Dr M Feeney [{{< bi envelope >}}](mailto:morgan.feeney@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/feeneymorgandr/) | microbiology, sustainability, plastic use | [Greener Microbiology] | 1 |
+| Dr Z Rattray [{{< bi envelope >}}](mailto:zahra.rattray@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/rattrayzahradr/) | Antibody stability; Analytical sciences; Formulations | [Developing bioanalytical assays for profiling antibody formulations] | 1 |
+
+
+## Project Descriptions
+
+### Developing bioanalytical assays for profiling antibody formulations
+
+**Supervisor**: Dr Z. Rattray
+
+**Keywords**: Antibody stability; Analytical sciences; Formulation
+
+#### Brief Overview
+
+Antibody-based therapies are frequently grossing in the top ten therapeutics globally, and there is a sharp rise in the emergence of antibody based new modalities for treating cancer and autoimmune disease. In this project, in partnership with the Rattray lab you will develop a proposal to study the formulation stability of antibody and antibody-drug conjugates to develop novel next-generation approaches for early derisking and triaging of antibody formulations. 
+
+### Greener Microbiology
+
+**Supervisor**: Dr M. Feeney
+
+**Keywords**: microbiology, sustainability, plastic use
+
+#### Brief Overview
+
+Students will analyse the microbiology practical lab curriculum (BM110, BM214, BM327) to quantify the amount of plastic consumables that are used and to identify any potential areas where plastic use can be reduced, or any other sustainability improvements.

@@ -3,6 +3,7 @@ project:
   resources:
     - "assets/presentations/2025_slides.pdf"
     - "assets/forms/SIPBS_Placement_Application_Form_2025-26.docx"
+    - "assets/forms/SIPBS_Placement_Application_Form_2025-26.pdf"
 
 website:
   title: "SIPBS Internships"

@@ -4,6 +4,7 @@ admin:
   homepage: "https://www.strath.ac.uk/staff/pritchardleightondr/"
   
 ay: "AY2025-26"
+summer: "Summer 2026"
 
 projects:
   current: "projects/2025-26.qmd"
@@ -18,6 +19,7 @@ form:
   deadline: "Monday 3rd November 2025"
   email: "philip.brown@strath.ac.uk"
   link: "assets/forms/SIPBS_Placement_Application_Form_2025-26.docx"
+  pdf: "assets/forms/SIPBS_Placement_Application_Form_2025-26.pdf"
   
 matching:
   date: "November-December 2025"
