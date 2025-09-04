@@ -1,13 +1,13 @@
 project:
   type: website
   resources:
-    - "assets/presentations/2024_slides.pdf"
-    - "assets/forms/SIPBS_Placement_Application_Form_2024-25_v2.docx"
+    - "assets/presentations/2025_slides.pdf"
+    - "assets/forms/SIPBS_Placement_Application_Form_2025-26.docx"
 
 website:
   title: "SIPBS Internships"
   site-url: https://sipbs-compbiol.github.io/sipbs-internships
-  description: "Course website for SIPBS Internships and Matching in Semester 1 2024"
+  description: "Course website for SIPBS Internships and Matching in Semester 1 2025"
   favicon: "icon_32.png"
   navbar:
     logo: ./assets/images/sipbs_compbio.png
@@ -21,7 +21,7 @@ website:
         - text: "Matching"
           href: matching.qmd
         - text: "Current Projects"
-          href: projects/2024-25.qmd
+          href: projects/2025-26.qmd
         - text: "External Funding Opportunities"
           href: external_funding.qmd
       - text: "Materials"
