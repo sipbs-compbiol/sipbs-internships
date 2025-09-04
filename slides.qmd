@@ -24,4 +24,4 @@ This page provides a link to download the SIPBS internship matching presentation
 
 - [DOWNLOAD]({{< var session.presentation >}})
 
-{{< pdf assets/presentations/2024_slides.pdf width=100% height=800 >}}
+{{< pdf "{{< var session.presentation >}}" width=100% height=800 >}}

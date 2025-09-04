@@ -23,3 +23,5 @@ html:
 This page provides a link to download the SIPBS internship matching application form.
 
 -   [DOWNLOAD]({{< var form.link >}})
+
+{{< pdf "{{< var form.pdf >}}" width=100% height=800 >}}
