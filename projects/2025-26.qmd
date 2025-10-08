@@ -37,7 +37,10 @@ Some projects may only proceed if suitable funding is obtained, or other conditi
 
 | PI                                                                                                                                   | Topics                                                         | Project Title                                                                                         | Students |
 |:----------------------|:------------------------|:------------------------|:--:|
-| Dr M Feeney [{{< bi envelope >}}](mailto:morgan.feeney@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/feeneymorgandr/) | microbiology, sustainability, plastic use | [Greener Microbiology] | 1 |
+| Dr M Feeney [{{< bi envelope >}}](mailto:morgan.feeney@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/feeneymorgandr/) | Microbiology, sustainability, plastic use | [Greener Microbiology] | 1 |
+| Dr S Humphrey [{{< bi envelope >}}](mailto:suzie.humphrey@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/chapmansuzie_humphreydr/) | Microbiology, phage | [Investigating phage-host interactions in _Enterococcus_ spp.] | 1 |
+| Mr P Kearns [{{< bi envelope >}}](mailto:paul.d.kearns@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/kearnspaulmr/) | Learning outcomes, student feedback, changing EL | [Qualitative assessment of student feedback on Experiential Learning in the MPharm at UoS ] | 2 |
+| Dr I Oswald [{{< bi envelope >}}](mailto:iain.oswald@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/oswaldiaindr/) | Solid-state, polymorphism, mechanochemistry | [Investigation of mechanochemistry to explore pharmaceutical materials] | 1 or 2 |
 | Dr Z Rattray [{{< bi envelope >}}](mailto:zahra.rattray@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/rattrayzahradr/) | Antibody stability; Analytical sciences; Formulations | [Developing bioanalytical assays for profiling antibody formulations] | 1 |
 
 
@@ -45,7 +48,7 @@ Some projects may only proceed if suitable funding is obtained, or other conditi
 
 ### Developing bioanalytical assays for profiling antibody formulations
 
-**Supervisor**: Dr Z. Rattray
+**Supervisor**: Dr Z. Rattray [{{< bi envelope >}}](mailto:zahra.rattray@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/rattrayzahradr/)
 
 **Keywords**: Antibody stability; Analytical sciences; Formulation
 
@@ -55,10 +58,40 @@ Antibody-based therapies are frequently grossing in the top ten therapeutics glo
 
 ### Greener Microbiology
 
-**Supervisor**: Dr M. Feeney
+**Supervisor**: Dr M. Feeney [{{< bi envelope >}}](mailto:morgan.feeney@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/feeneymorgandr/)
 
 **Keywords**: microbiology, sustainability, plastic use
 
 #### Brief Overview
 
 Students will analyse the microbiology practical lab curriculum (BM110, BM214, BM327) to quantify the amount of plastic consumables that are used and to identify any potential areas where plastic use can be reduced, or any other sustainability improvements.
+
+### Investigating phage-host interactions in _Enterococcus_ spp.
+
+**Supervisor**: Dr S. Humphrey [{{< bi envelope >}}](mailto:suzie.humphrey@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/chapmansuzie_humphreydr/)
+
+**Keywords**: Microbiology, phage
+
+#### Brief Overview
+
+Work in our lab focuses on unravelling the genetic mechanisms underpinning bacteriophage biology in Gram positive pathogens such as _Enterococcus faecalis_, _Enterococcus faecium_ and _Staphylococcus aureus_. We are particularly interested in characterising the roles that temperate phages play in mediating changes in their host bacteria to alter bacterial virulence profiles, susceptibility to further phage infection, and interactions with other mobile genetic elements. Given the breadth of current work in our lab, the scope of this specific project can be flexible to fit the interests of the student, but it would best suit a student with an interest in bacteriophages, bacterial genetics and molecular biology. 
+
+### Investigation of mechanochemistry to explore pharmaceutical materials
+
+**Supervisor**: Dr I. Oswald [{{< bi envelope >}}](mailto:iain.oswald@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/oswaldiaindr/)
+
+**Keywords**: solid-state, polymorphism, mechanochemistry
+
+#### Brief Overview
+
+Mechanochemistry offers a solvent-free approach to drug processing, where grinding, milling, or compression can induce polymorphic transformations, amorphization, or co-crystal formation. This project will seek to link the mechanochemical result to the high-pressure science by firstly undergoing a literature search of high-pressure transformations and following up with practical assessment using mechanochemistry on selected materials highlighted from the search and/or those provided by the group. Each student will assess one API under different conditions and link to the observations in the literature.
+
+### Qualitative assessment of student feedback on Experiential Learning in the MPharm at UoS 
+
+**Supervisor**: Mr P. Kearns [{{< bi envelope >}}](mailto:paul.d.kearns@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/kearnspaulmr/)
+
+**Keywords**: Learning outcomes, student feedback, changing EL
+
+#### Brief Overview
+
+All students in all years in the MPharm have to undertake experiential learning placements. Since 2019 students have had to complete questionnaires at the end of their EL to let us know about their EL. This is one of the quality management tools used to assess whether the Learning Outcomes of the EL are being met and if the site they were at is meeting expected standards also. Since 2019-2020, EL has expanded as a result of Additional Costs of Teaching funding being made available from the Scottish Government to support it. EL has progressively increased from 4 weeks in the university of Strathclyde to 9 weeks at present with an aim to get to 11 weeks eventually. In 2020-21 (EL at 4 weeks) and 2023-24 (EL at 7 weeks), Y5 student projects were undertaken to do thematically analyse the student feedback and relate it to the learning outcomes. This is being done again this year (EL at 9 weeks). It would be very useful to undertake a more comprehensive  summative content analysis using all the data from all 3 projects to examine if the learning outcomes are being met and to gauge the impact of the increase in EL. Undertaking this analysis would be the role of the students.
