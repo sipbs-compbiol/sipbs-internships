@@ -25,6 +25,8 @@ website:
           href: projects/2025-26.qmd
         - text: "External Funding Opportunities"
           href: external_funding.qmd
+        - text: "Informational Interviews"
+          href: informational.qmd
       - text: "Materials"
         menu: 
         - text: "Slides"
