@@ -1,0 +1,101 @@
+---
+title: "Projects: Summer 2027"
+image: ../assets/images/2027.jpg
+description: 
+ Projects offered for SIPBS Internships, starting Summer 2027.
+tbl-colwidths: [20, 40, 40]
+number-sections: true
+about:
+  template: marquee
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/scompbiol
+    - icon: github
+      text: Github
+      href: https://github.com/sipbs-compbiol
+    - icon: envelope
+      text: Email
+      href: mailto:leighton.pritchard@strath.ac.uk
+html:
+  anchor-sections: true
+---
+
+## Offered Project Summaries
+
+The table below lists PIs who have actively indicated they would welcome SIPBS internship applicants for project work in {{< var summer >}}.
+
+::: { .callout-warning }
+Some projects may only proceed if suitable funding is obtained, or other conditions are met.
+:::
+
+| PI                                                                                                                                   | Topics                                                         | Project Title                                                                                         | Students |
+|:----------------------|:------------------------|:------------------------|:--:|
+| Dr Z Rattray [{{< bi envelope >}}](mailto:zahra.rattray@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/rattrayzahradr/) | Nanotechnology; Analysis; Bioanalysis; Antibody;
+Antibody-drug conjugates; peptides | [Developing new analytical methods for nanotechnology based products] | 1 |
+| Dr M McDonald [{{< bi envelope >}}](morven.mcdonald@strath.ac.uk) and Mr P Kearns [{{< bi envelope >}}](paul.d.kearns@strath.ac.uk) | | [A student-led health clinic model for Scotland] | 2 |
+| Prof K Edkins [{{< bi envelope >}}](katharina.edkins@strath.ac.uk) | NMR spectroscopy; solution-state; FTIR; UV-vis; crystallisation; host-guest chemistry; data handling and analysis | [Spectroscopic Investigation of Non-Covalent Interactions in Solution for Crystallisation Design] | 1 |
+| Prof K Edkins [{{< bi envelope >}}](katharina.edkins@strath.ac.uk) | NMR spectroscopy; solution-state; EXSY; NOESY; data handling and analysis; method development | [Exploring Pre-Crystallisation Solution Using NOESY and EXSY NMR Spectroscopy] | 1 |
+
+
+
+## Project Descriptions
+
+### Developing new analytical methods for nanotechnology based products
+
+**Supervisor**: Dr Z. Rattray [{{< bi envelope >}}](mailto:zahra.rattray@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/rattrayzahradr/)
+
+**Keywords**: Nanotechnology; Analysis; Bioanalysis; Antibody; Antibody-drug conjugates; peptides
+
+#### Brief Overview
+
+SIPBS is host to the EPSRC multiscale metrology suite for next generation health nanotechnologies national facility. The role of the facility is to develop new analytical methods so that we can develop new and safer medicines for unmet clinical need. In this project, you will be working with the Rattray lab to address a challenge in the analysis of a nanotechnology based formulations.
+
+
+### A student-led health clinic model for Scotland
+
+**Supervisor**: Dr M McDonald [{{< bi envelope >}}](morven.mcdonald@strath.ac.uk) and Mr P Kearns [{{< bi envelope >}}](paul.d.kearns@strath.ac.uk)
+
+#### Brief Overview
+
+This project addresses two important challenges: the need for innovative experiential learning opportunities for student pharmacists and the need to improve access to prevention-focused healthcare within communities. While experiential learning is a core component of Scottish MPharm programmes, opportunities for sustained involvement in service design, delivery and evaluation remain limited. Student participation in real-world healthcare innovation can strengthen clinical reasoning, communication skills, leadership, quality improvement capability and understanding of health inequalities. 
+
+As part of a team with students from Robert Gordon University, and working alongside NHS and university supervisors, two interns will develop the content, resources and operating procedures required for a student-led health clinic model. The interns will also recruit fellow student pharmacists to participate in pilot clinic activities. We are seeking funding to support the project and the student interns and anticipate that this will be secured prior to the commencement of the internship period.
+
+A pilot clinic will then be delivered to test the model in practice, generating evidence on feasibility, acceptability, educational value and potential community impact. The project will conclude with a comprehensive evaluation and recommendations for future implementation and scale-up. This approach provides a low-cost, scalable method of developing an innovative educational and service-delivery model while creating a foundation for future community-based health clinics that can support prevention, health improvement and reduction of health inequalities.
+
+
+### Spectroscopic Investigation of Non-Covalent Interactions in Solution for Crystallisation Design
+
+**Supervisor**: Prof K Edkins [{{< bi envelope >}}](katharina.edkins@strath.ac.uk)
+
+**Keywords**: NMR spectroscopy; solution-state; FTIR; UV-vis; crystallisation; host-guest chemistry; data handling and analysis
+
+#### Brief Overview
+
+Physical and chemical properties of active pharmaceutical ingredients (APIs) are influenced by their solid-state form, whether crystalline or amorphous. These properties include stability and solubility, which are the key factors determining the future success of the drug product. Traditionally, solid-state screening within the pharmaceutical industry relies on trial-and-error approaches under different sets of conditions to discover new polymorphic forms. While effective, these are unsustainable and time-consuming, creating a need for more predictive methods for crystallisation outcomes, which remain a significant challenge
+
+One approach towards this aim is to understand molecular interactions in solution before crystallisation, as these may influence the crystal forms obtained from that solution. So far, such interactions have traditionally been explored with an emphasis on solute-solute aggregation, which in some cases appears to mirror motifs observed in the solid state, supporting the so-called link hypothesis. However, conflicting evidence has also been reported, questioning this relationship. Therefore, this project aims to not only investigate API self-association, but also to examine solute-solvent interactions and their influence on crystallisation pathway through binding or bulk effects, which so far has been greatly underrepresented in the literature.
+
+In this project, we will use NMR spectroscopy, potentially supported by FTIR and UV-vis spectroscopy to explore API behaviour in solution. Spectroscopic dilution and titration studies will monitor changes in chemical shifts, vibrational frequencies and absorbance bands associated with molecular interactions4. Resulting datasets will be fitted to binding isotherms to derive binding constants (K), energies (ΔG) and to investigate the dominant interactions, as well as determining aggregation mechanisms5. Depending on the outcomes, there might be an opportunity to crystallise selected compounds and to utilise solid-state analysis methods, such as powder X-ray diffraction, thermogravimetric analysis (TGA) or differential scanning calorimetry (DSC).
+
+#### References
+
+1.	A. J. Cruz-Cabeza, S. M. Reutzel-Edens and J. Bernstein, Chemical Society Reviews, 2015, 44, 8619–8635.
+2.	S. A. Kulkarni, E. S. McGarrity, H. Meekes and J. H. ter Horst, Chemical Communications, 2012, 48, 4983–4985.
+3.	A. Be̅rziņš, A. Semjonova, A. Actiņš and M. Salvalaglio, Cryst. Growth Des., 2021, 21, 4823–4836.
+4.	Y. Shen, M. Aucamp, H. E. Abdelhakim, X. Li, Y. Ghazali and K. Edkins, RSC Pharmaceutics, 2024, 1, 132–140.
+
+### Exploring Pre-Crystallisation Solution Using NOESY and EXSY NMR Spectroscopy
+
+**Supervisor**: Prof K Edkins [{{< bi envelope >}}](katharina.edkins@strath.ac.uk)
+
+**Keywords**: NMR spectroscopy; solution-state; EXSY; NOESY; data handling and analysis; method development
+
+#### Brief Overview
+
+While NMR titration and dilution studies can provide valuable information on molecular interactions in solution, additional insight may be obtained using Nuclear Overhauser Effect Spectroscopy (NOESY) and Exchange Spectroscopy (EXSY). These one and two-dimensional NMR techniques can be used to examine through-space interactions between nuclei and gauge exchange processes involving labile protons, providing complementary information on solution-state behaviour that is often inaccessible by standard 1D experiments.
+
+This project will investigate the application of NOESY and EXSY methods to the study of APIs in a range of solvent environments. Both 1D and 2D variants of these experiments will be explored to identify intermolecular interactions, quantify exchange processes and assess their significance for probing solute-solute and solute-solvent interactions. We will also focus on interactions occurring at concentrations below those typically required for typical NMR experimentation.
+
+The student will primarily gain experience in NMR spectroscopy, data processing and spectral interpretation, while contributing to the development of methodologies for studying pre-crystallisation solutions. Depending on the outcomes, the project may help establish practical considerations for investigating molecular interactions and proton exchange behaviour relevant to pharmaceutical systems studied within our research group.
