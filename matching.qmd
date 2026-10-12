@@ -22,7 +22,7 @@ This page describes the process we use for matching students with SIPBS supervis
 **Even though we offer a matching scheme for summer internships and placements, you are at all times at liberty to pursue internships independently. There is no obligation to use the matching scheme, and whether or not you are selected through this scheme, you are of course able to apply for any internships that are available through other routes.**
 :::
 
-![2025 Internship Matching Process Flowchart](./assets/images/2025_internship_flowchart.png)
+![2026 Internship Matching Process Flowchart](./assets/images/2026_internship_flowchart.png)
 
 ## Introductory Lecture
 
