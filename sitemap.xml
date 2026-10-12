@@ -1,59 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sipbs-compbiol.github.io/sipbs-internships/internships.html</loc>
-    <lastmod>2026-02-09T11:38:27.952Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sipbs-compbiol.github.io/sipbs-internships/forms.html</loc>
-    <lastmod>2026-02-09T11:38:27.951Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sipbs-compbiol.github.io/sipbs-internships/previous_projects.html</loc>
-    <lastmod>2026-02-09T11:38:27.952Z</lastmod>
+    <loc>https://sipbs-compbiol.github.io/sipbs-internships/projects/2026-27.html</loc>
+    <lastmod>2026-10-12T16:56:08.921Z</lastmod>
   </url>
   <url>
     <loc>https://sipbs-compbiol.github.io/sipbs-internships/projects/2023-24.html</loc>
-    <lastmod>2026-02-09T11:38:27.952Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sipbs-compbiol.github.io/sipbs-internships/projects/2022-23.html</loc>
-    <lastmod>2026-02-09T11:38:27.952Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sipbs-compbiol.github.io/sipbs-internships/projects/2020-21.html</loc>
-    <lastmod>2026-02-09T11:38:27.952Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sipbs-compbiol.github.io/sipbs-internships/informational.html</loc>
-    <lastmod>2026-02-09T11:38:27.952Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sipbs-compbiol.github.io/sipbs-internships/slides.html</loc>
-    <lastmod>2026-02-09T11:38:27.953Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sipbs-compbiol.github.io/sipbs-internships/projects/2021-22.html</loc>
-    <lastmod>2026-02-09T11:38:27.952Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sipbs-compbiol.github.io/sipbs-internships/projects/2024-25.html</loc>
-    <lastmod>2026-02-09T11:38:27.952Z</lastmod>
+    <lastmod>2026-10-12T16:56:08.921Z</lastmod>
   </url>
   <url>
     <loc>https://sipbs-compbiol.github.io/sipbs-internships/projects/2025-26.html</loc>
-    <lastmod>2026-02-09T11:38:27.952Z</lastmod>
+    <lastmod>2026-10-12T16:56:08.921Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sipbs-compbiol.github.io/sipbs-internships/projects/2022-23.html</loc>
+    <lastmod>2026-10-12T16:56:08.921Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sipbs-compbiol.github.io/sipbs-internships/slides.html</loc>
+    <lastmod>2026-10-12T16:56:08.921Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sipbs-compbiol.github.io/sipbs-internships/internships.html</loc>
+    <lastmod>2026-10-12T16:56:08.920Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sipbs-compbiol.github.io/sipbs-internships/informational.html</loc>
+    <lastmod>2026-10-12T16:56:08.920Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sipbs-compbiol.github.io/sipbs-internships/forms.html</loc>
+    <lastmod>2026-10-12T16:56:08.920Z</lastmod>
   </url>
   <url>
     <loc>https://sipbs-compbiol.github.io/sipbs-internships/index.html</loc>
-    <lastmod>2026-02-09T11:38:27.952Z</lastmod>
+    <lastmod>2026-10-12T16:56:08.920Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sipbs-compbiol.github.io/sipbs-internships/previous_projects.html</loc>
+    <lastmod>2026-10-12T16:56:08.920Z</lastmod>
   </url>
   <url>
     <loc>https://sipbs-compbiol.github.io/sipbs-internships/external_funding.html</loc>
-    <lastmod>2026-02-09T11:38:27.951Z</lastmod>
+    <lastmod>2026-10-12T16:56:08.920Z</lastmod>
   </url>
   <url>
     <loc>https://sipbs-compbiol.github.io/sipbs-internships/matching.html</loc>
-    <lastmod>2026-02-09T11:38:27.952Z</lastmod>
+    <lastmod>2026-10-12T16:56:08.920Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sipbs-compbiol.github.io/sipbs-internships/projects/2020-21.html</loc>
+    <lastmod>2026-10-12T16:56:08.921Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sipbs-compbiol.github.io/sipbs-internships/projects/2024-25.html</loc>
+    <lastmod>2026-10-12T16:56:08.921Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sipbs-compbiol.github.io/sipbs-internships/projects/2021-22.html</loc>
+    <lastmod>2026-10-12T16:56:08.921Z</lastmod>
   </url>
 </urlset>
