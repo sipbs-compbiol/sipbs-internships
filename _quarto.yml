@@ -37,8 +37,6 @@ website:
           href: forms.qmd
       - icon: github
         href: https://github.com/sipbs-compbiol/sipbs-internships
-      - icon: twitter
-        href: https://twitter.com/scompbiol
       - icon: rss
         href: index.xml  
   page-footer: 
