@@ -31,11 +31,10 @@ Some projects may only proceed if suitable funding is obtained, or other conditi
 
 | PI                                                                                                                                   | Topics                                                         | Project Title                                                                                         | Students |
 |:----------------------|:------------------------|:------------------------|:--:|
-| Dr Z Rattray [{{< bi envelope >}}](mailto:zahra.rattray@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/rattrayzahradr/) | Nanotechnology; Analysis; Bioanalysis; Antibody;
-Antibody-drug conjugates; peptides | [Developing new analytical methods for nanotechnology based products] | 1 |
-| Dr M McDonald [{{< bi envelope >}}](morven.mcdonald@strath.ac.uk) and Mr P Kearns [{{< bi envelope >}}](paul.d.kearns@strath.ac.uk) | | [A student-led health clinic model for Scotland] | 2 |
-| Prof K Edkins [{{< bi envelope >}}](katharina.edkins@strath.ac.uk) | NMR spectroscopy; solution-state; FTIR; UV-vis; crystallisation; host-guest chemistry; data handling and analysis | [Spectroscopic Investigation of Non-Covalent Interactions in Solution for Crystallisation Design] | 1 |
-| Prof K Edkins [{{< bi envelope >}}](katharina.edkins@strath.ac.uk) | NMR spectroscopy; solution-state; EXSY; NOESY; data handling and analysis; method development | [Exploring Pre-Crystallisation Solution Using NOESY and EXSY NMR Spectroscopy] | 1 |
+| Dr Z Rattray [{{< bi envelope >}}](mailto:zahra.rattray@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/rattrayzahradr/) | Nanotechnology; Analysis; Bioanalysis; Antibody; Antibody-drug conjugates; peptides | [Developing new analytical methods for nanotechnology based products] | 1 |
+| Mrs M McDonald [{{< bi envelope >}}](morven.mcdonald@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/mcdonaldmorvenmrs/) and Mr P Kearns [{{< bi envelope >}}](paul.d.kearns@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/kearnspaulmr/) | | [A student-led health clinic model for Scotland] | 2 |
+| Prof K Edkins [{{< bi envelope >}}](katharina.edkins@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/edkinskatharinadr/) | NMR spectroscopy; solution-state; FTIR; UV-vis; crystallisation; host-guest chemistry; data handling and analysis | [Spectroscopic Investigation of Non-Covalent Interactions in Solution for Crystallisation Design] | 1 |
+| Prof K Edkins [{{< bi envelope >}}](katharina.edkins@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/edkinskatharinadr/) | NMR spectroscopy; solution-state; EXSY; NOESY; data handling and analysis; method development | [Exploring Pre-Crystallisation Solution Using NOESY and EXSY NMR Spectroscopy] | 1 |
 
 
 
@@ -54,7 +53,7 @@ SIPBS is host to the EPSRC multiscale metrology suite for next generation health
 
 ### A student-led health clinic model for Scotland
 
-**Supervisor**: Dr M McDonald [{{< bi envelope >}}](morven.mcdonald@strath.ac.uk) and Mr P Kearns [{{< bi envelope >}}](paul.d.kearns@strath.ac.uk)
+**Supervisor**: Mrs M McDonald [{{< bi envelope >}}](morven.mcdonald@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/mcdonaldmorvenmrs/) and Mr P Kearns [{{< bi envelope >}}](paul.d.kearns@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/kearnspaulmr/)
 
 #### Brief Overview
 
@@ -67,7 +66,7 @@ A pilot clinic will then be delivered to test the model in practice, generating 
 
 ### Spectroscopic Investigation of Non-Covalent Interactions in Solution for Crystallisation Design
 
-**Supervisor**: Prof K Edkins [{{< bi envelope >}}](katharina.edkins@strath.ac.uk)
+**Supervisor**: Prof K Edkins [{{< bi envelope >}}](katharina.edkins@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/edkinskatharinadr/)
 
 **Keywords**: NMR spectroscopy; solution-state; FTIR; UV-vis; crystallisation; host-guest chemistry; data handling and analysis
 
@@ -88,7 +87,7 @@ In this project, we will use NMR spectroscopy, potentially supported by FTIR and
 
 ### Exploring Pre-Crystallisation Solution Using NOESY and EXSY NMR Spectroscopy
 
-**Supervisor**: Prof K Edkins [{{< bi envelope >}}](katharina.edkins@strath.ac.uk)
+**Supervisor**: Prof K Edkins [{{< bi envelope >}}](katharina.edkins@strath.ac.uk) [{{< bi link >}}](https://www.strath.ac.uk/staff/edkinskatharinadr/)
 
 **Keywords**: NMR spectroscopy; solution-state; EXSY; NOESY; data handling and analysis; method development
 
