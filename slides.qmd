@@ -1,6 +1,6 @@
 ---
 title: "Slides"
-image: assets/images/2026-27_slides.png
+image: assets/images/2024-25_slides.png
 description: |
  Internship-related presentation slides
 number-sections: true
