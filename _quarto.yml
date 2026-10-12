@@ -1,14 +1,14 @@
 project:
   type: website
   resources:
-    - "assets/presentations/2025_slides.pdf"
-    - "assets/forms/SIPBS_Placement_Application_Form_2025-26.docx"
-    - "assets/forms/SIPBS_Placement_Application_Form_2025-26.pdf"
+    - "assets/presentations/2026_slides.pdf"
+    - "assets/forms/SIPBS_Placement_Application_Form_2025-27.docx"
+    - "assets/forms/SIPBS_Placement_Application_Form_2025-27.pdf"
 
 website:
   title: "SIPBS Internships"
   site-url: https://sipbs-compbiol.github.io/sipbs-internships
-  description: "Course website for SIPBS Internships and Matching in Semester 1 2025"
+  description: "Course website for SIPBS Internships and Matching in Semester 1 2026"
   favicon: "icon_32.png"
   navbar:
     logo: ./assets/images/sipbs_compbio.png
@@ -22,7 +22,7 @@ website:
         - text: "Matching"
           href: matching.qmd
         - text: "Current Projects"
-          href: projects/2025-26.qmd
+          href: projects/2026-27.qmd
         - text: "External Funding Opportunities"
           href: external_funding.qmd
         - text: "Informational Interviews"
@@ -37,8 +37,6 @@ website:
           href: forms.qmd
       - icon: github
         href: https://github.com/sipbs-compbiol/sipbs-internships
-      - icon: twitter
-        href: https://twitter.com/scompbiol
       - icon: rss
         href: index.xml  
   page-footer: 
