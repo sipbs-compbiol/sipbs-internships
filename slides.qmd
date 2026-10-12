@@ -1,15 +1,12 @@
 ---
 title: "Slides"
-image: assets/images/2024-25_slides.png
+image: assets/images/2026-27_slides.png
 description: |
  Internship-related presentation slides
 number-sections: true
 about:
   template: trestles
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/scompbiol
     - icon: github
       text: Github
       href: https://github.com/sipbs-compbiol

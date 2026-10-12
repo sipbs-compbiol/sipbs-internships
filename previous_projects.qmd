@@ -10,9 +10,6 @@ listing:
 about:
   template: marquee
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/scompbiol
     - icon: github
       text: Github
       href: https://github.com/sipbs-compbiol
